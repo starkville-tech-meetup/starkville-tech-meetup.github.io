@@ -17,5 +17,18 @@ Door entrances are on the north side (parking lot) and south side of the buildin
 </details>
 
 ### Agenda
+### Social Media
+<style>
+    img {
+        padding: 5px;
+        background-color: #bfcde0;
+  border: 2px solid #5865f2;
+  border-radius: 5px;
+}
 
-asdfasdf
+</style>
+<a href="https://discord.gg/mQwu7K9dnG">
+<img src="images/Discord-Logo-Blurple.svg" width="100"> </image>
+</a>
+
+_... That's it at the moment..._
