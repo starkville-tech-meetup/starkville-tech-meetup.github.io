@@ -17,6 +17,8 @@ Door entrances are on the north side (parking lot) and south side of the buildin
 </details>
 
 ### Agenda
+See [provided agenda](agenda_2025-06-20.md) for the 6/20 meeting.
+
 ### Social Media
 <style>
     img {
