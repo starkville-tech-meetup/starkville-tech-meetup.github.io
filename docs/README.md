@@ -22,7 +22,7 @@ If you come in from the north/parking lot, you will need to go down the stairs.
 
 See [provided agenda](agenda_2025-06-20.md) for the 6/20 meeting.
 
-For further reading, see the [resources page](resources.md).
+For some tips on tech meetups, see the [resources page](resources.md).
 
 ### Social Media
 <style>
@@ -36,6 +36,6 @@ For further reading, see the [resources page](resources.md).
 </style>
 <a href="https://discord.gg/mQwu7K9dnG">
 <img src="images/Discord-Logo-Blurple.svg" width="100"> </image>
-</a>
+</a> &nbsp; &nbsp; <i>... That's it at the moment...</i>
 
 _... That's it at the moment..._
