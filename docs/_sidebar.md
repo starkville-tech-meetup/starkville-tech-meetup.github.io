@@ -8,4 +8,4 @@
 
 * [Useful resources](resources.md)
 
-* [My apology](my_apology.md)
+<!-- * [My apology](my_apology.md) -->
