@@ -38,4 +38,6 @@ For some tips on tech meetups, see the [resources page](resources.md).
 <img src="images/Discord-Logo-Blurple.svg" width="100"> </image>
 </a> &nbsp; &nbsp; <i>... That's it at the moment...</i>
 
-_... That's it at the moment..._
+### RSVP via Google Form
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeCNMQq9gpQ9c4j0FoePZnn3p64Ku4702QXTFH4ZQCN1nKIHQ/viewform?embedded=true" width="640" height="1511" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
