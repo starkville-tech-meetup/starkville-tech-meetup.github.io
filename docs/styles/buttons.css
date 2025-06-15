@@ -1,0 +1,23 @@
+#myButton {
+  padding: 5px 5px;
+  background-color: #fceb8b;
+  border: 2px solid #800000;
+  border-radius: 5px;
+  color: #800000;
+  border-radius: 6px;
+  cursor: pointer;
+  margin: 5px;
+  /* width: 100px; */
+}
+
+#myButton:hover {
+  transition-duration: 0.4s;
+  background-color: #ccb849;
+  /* color: #brown; */
+}
+
+.button-link, .button-link:link, .button-link:visited {
+text-decoration: none;
+color: #0f2139;
+}
+

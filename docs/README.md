@@ -7,6 +7,12 @@ And hopefully have it regularly!
 The current plan for the first meeting is to have it around 7pm Friday June 20th (2025).  
 (Or `2025-06-20 19:00:00` for the [ISO](https://en.wikipedia.org/wiki/ISO_8601) people...)
 
+<link rel="stylesheet" href="styles/buttons.css">
+<a href="https://calendar.online/event/page/affe1c35f76a8e227221d5721b365b1509a4127d3cbc7ccf95" target="_blank">
+<button id="myButton">Add event to your device</button>
+</a>
+
+
 This will take place at [the Hub](https://coworkmsu.com/).  Click dropdown below for details.
 
 <details>
