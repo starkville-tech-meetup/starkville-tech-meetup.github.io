@@ -18,8 +18,11 @@ If you come in from the north/parking lot, you will need to go down the stairs.
 <!-- map code from https://www.embed-map.com/ -->
 </details>
 
-### Agenda
+### Further Reading
+
 See [provided agenda](agenda_2025-06-20.md) for the 6/20 meeting.
+
+For further reading, see the [resources page](resources.md).
 
 ### Social Media
 <style>
