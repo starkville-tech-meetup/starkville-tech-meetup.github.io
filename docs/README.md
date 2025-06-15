@@ -7,13 +7,15 @@ And hopefully have it regularly!
 The current plan for the first meeting is to have it around 7pm Friday June 20th (2025).  
 (Or `2025-06-20 19:00:00` for you [ISO](https://en.wikipedia.org/wiki/ISO_8601) people...)
 
-This would take place at [the Hub](https://coworkmsu.com/).  
-The parking lot is in the back (north side), and you can get to it either from east side or the northwest side of the building.  
-Door entrances are on the north side (parking lot) and south side of the building; if you come in from the north/parking lot, you will need to go down the stairs.
+This would take place at [the Hub](https://coworkmsu.com/).  Click line for details.
 
 <details>
-<summary> Map </summary>
+<summary> Map and parking description </summary>
+The parking lot is in the back (north side), and you can get to it either from east side or the northwest side of the building.  </br>
+Door entrances are on the north side (parking lot) and south side of the building. </br>
+If you come in from the north/parking lot, you will need to go down the stairs.
 <div style="overflow:hidden;resize:none;max-width:100%;width:500px;height:500px;"><div id="google-maps-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=301+E+Main+St&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="embedded-map-code" rel="nofollow" href="https://kbj9qpmy.com/bp" id="grab-map-authorization">Internet Provider</a><style>#google-maps-canvas img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div>
+<!-- map code from https://www.embed-map.com/ -->
 </details>
 
 ### Agenda
