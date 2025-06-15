@@ -32,17 +32,24 @@ For some tips on tech meetups, see the [resources page](resources.md).
 
 ### Social Media
 <style>
-    img {
+#discord-button {
         padding: 5px;
         background-color: #bfcde0;
   border: 2px solid #5865f2;
   border-radius: 5px;
 }
+#discord-button:hover {
+  transition-duration: 0.4s;
+  background-color:rgb(130, 169, 223);
+  /* color: #brown; */
+}
 
 </style>
+
 <a href="https://discord.gg/mQwu7K9dnG">
-<img src="images/Discord-Logo-Blurple.svg" width="100"> </image>
-</a> &nbsp; &nbsp; <i>... That's it at the moment...</i>
+<img id="discord-button" src="images/Discord-Logo-Blurple.svg" width="100"> </img>
+</a>
+ &nbsp; &nbsp; <i>... That's it at the moment...</i>
 
 ### RSVP via Google Form
 
