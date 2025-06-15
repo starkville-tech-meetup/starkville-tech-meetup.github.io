@@ -5,9 +5,9 @@ And hopefully have it regularly!
 
 ### Time and Place
 The current plan for the first meeting is to have it around 7pm Friday June 20th (2025).  
-(Or `2025-06-20 19:00:00` for you [ISO](https://en.wikipedia.org/wiki/ISO_8601) people...)
+(Or `2025-06-20 19:00:00` for the [ISO](https://en.wikipedia.org/wiki/ISO_8601) people...)
 
-This would take place at [the Hub](https://coworkmsu.com/).  Click line for details.
+This will take place at [the Hub](https://coworkmsu.com/).  Click dropdown below for details.
 
 <details>
 <summary> Map and parking description </summary>
