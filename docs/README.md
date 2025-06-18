@@ -3,6 +3,8 @@
 We wanted to start a kind of software development/technology-focused meetup in Starkville.  
 And hopefully have it regularly!
 
+Note: **There will be snacks!**
+
 ### Time and Place
 The current plan for the first meeting is to have it around 7pm Friday June 20th (2025).  
 (Or `2025-06-20 19:00:00` for the [ISO](https://en.wikipedia.org/wiki/ISO_8601) people...)
@@ -14,8 +16,6 @@ The current plan for the first meeting is to have it around 7pm Friday June 20th
 
 
 This will take place at [the Hub](https://coworkmsu.com/) (301 E Main St., Starkville, MS).  Click dropdown below for details.
-
-**There will be snacks!**
 
 
 <details>
