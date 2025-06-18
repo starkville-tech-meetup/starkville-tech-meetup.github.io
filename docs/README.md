@@ -15,6 +15,9 @@ The current plan for the first meeting is to have it around 7pm Friday June 20th
 
 This will take place at [the Hub](https://coworkmsu.com/) (301 E Main St., Starkville, MS).  Click dropdown below for details.
 
+**There will be snacks!**
+
+
 <details>
 <summary> Map and parking description </summary>
 The parking lot is in the back (north side), and you can get to it either from east side or the northwest side of the building.  </br>
