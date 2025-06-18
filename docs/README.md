@@ -20,8 +20,7 @@ This will take place at [the Hub](https://coworkmsu.com/) (301 E Main St., Stark
 The parking lot is in the back (north side), and you can get to it either from east side or the northwest side of the building.  </br>
 Door entrances are on the north side (parking lot) and south side of the building. </br>
 If you come in from the north/parking lot, you will need to go down the stairs.
-<div style="overflow:hidden;resize:none;max-width:100%;width:500px;height:500px;"><div id="google-maps-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/place/The+Hub/@33.4643121,-88.8163376,16z/data=!3m1!4b1!4m6!3m5!1s0x88813510f01510dd:0x454a02eaf7bde9c7!8m2!3d33.4643121!4d-88.8137627!16s%2Fg%2F11y4364z1j?entry=ttu&g_ep=EgoyMDI1MDYxNS4wIKXMDSoASAFQAw%3D%3D"></iframe></div><a class="embedded-map-code" rel="nofollow" href="https://kbj9qpmy.com/bp" id="grab-map-authorization">Internet Provider</a><style>#google-maps-canvas img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div>
-<!-- map code from https://www.embed-map.com/ -->
+<div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:500px;height:500px;"><div id="embed-ded-map-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/search?q=The+Hub,+North+Jackson+Street,+Starkville,+MS,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="our-googlemap-code" href="https://kbj9qpmy.com/hrn" id="make-map-infor-mation">Hosting Right Now</a><style>#embed-ded-map-canvas img{max-height:none;max-width:none!important;background:none!important;}</style></div><!-- map code from https://www.embed-map.com/ -->
 </details>
 
 ### Further Reading
