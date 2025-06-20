@@ -1,0 +1,142 @@
+---
+title: "What to Expect<h2>at a Tech Meetup</h2>"
+format: 
+  revealjs:
+    incremental: true
+    theme: dark
+---
+
+## What does a meetup look like?
+
+1. Purpose(s)
+2. Format
+3. Audience
+4. Content
+
+---
+
+![](./meetup-factors.png)
+
+---
+
+## Purpose(s)
+- Knowledge
+  - Learn (listen)
+  - Teach (speak)
+- Mentorship
+  - presenting
+  - long-term mentorship relationship
+
+## Purpose(s) (Cont'd)
+
+- Networking
+  - Meet new contacts
+  - Deepen existing relationships
+  - Schmoozing 
+    - [But don't come in with the goal of finding a job](https://www.reddit.com/r/cscareerquestions/comments/12skl6r/comment/jgzk1cu/)
+- Food
+- Talk about cool things with people that understand you!
+  - Or at least understand better
+
+
+---
+
+## Content
+
+- Themed
+  - company/organization (Google, Apple, CodeStack, etc. )
+  - programming language (C++, Rust, Python, Javascipt, APL, COBOL, Ada, Haskell, Swift, Clojure, etc.)
+  - even a specific framework, like Rails or React
+- Focus on jobs/roles/industries (computer graphics, scientific computation, data analysis, automation, etc.)
+- Demographics (minority groups, [Women Who Code](https://www.womenwhocode.com/), high schoolers, etc.)
+- "Technical" vs "Business"
+
+---
+
+## Format
+
+- In-person - less convenient, but more personable
+- Online - more convenient, but more detached
+- Hybrid - maybe best of both, if implemented well
+- Asynchronous - this is a lecture...
+- Note: Heavily influences the type of presentations and other events that can occur. 
+
+--- 
+
+## Format - Events
+- Networking-centric
+- Presentations
+- Workshops
+- Tech Demos
+- Company Rep Tables
+
+---
+
+## Format - Events 
+::: {.nonincremental}
+- __Networking-centric__ 👈
+- __Presentations__ 👈
+- Workshops 🤞
+- Tech Demos 🤞
+- Company Rep Tables 🤞
+:::
+
+---
+
+## Audience
+
+- Large crowd?
+- Small gathering/group?
+  - Both valid!
+- Depends on:
+  - Did they hear about it? (where they targeted in any specific media?)
+  - Do they want to go? (maybe many people after Covid...)
+  - Can they make it? (People are busy!)
+- You really shouldn't have to tailor your behavior based on who's there, but it's worth to bear in mind...
+
+---
+
+# Tips to enjoy your first tech meetup
+
+
+---
+
+## Beforehand - Research, Reach out, and "Recruit"
+- Look into the group (if exists) and attendees.
+- Ask a host about what to expect.
+- Introduce yourself to others ahead of time if there's some kind of chat associated with the event.
+- (Not relevant yet) Research interview questions if your goal is to get your foot in the door with a recruiter
+  - But [don't try too hard](https://www.reddit.com/r/cscareerquestions/comments/12skl6r/comment/jgzk1cu/)...
+- If feeling nervous, bring someone with you! However, it is a heck of a lot easier to meet people when you are acting alone, so be prepared to split up at some point!
+
+---
+
+## During - Chat, Keep Room, and Contact
+- If someone's standing alone, start a conversation!
+- Remember the [Pac-Man Rule](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/)
+- Keep questions in your head to ask people; both to start and to continue conversations
+- Get contact info if want to keep in touch outside of these meetups
+  - We have a Discord to help simplify this a bit!
+
+---
+
+## Afterward - Message and Momentum
+- Message a thanks to those you met (depending on if you got their info)
+- Continue looking into tech meetups!
+
+---
+
+## Future steps
+- Prepare to [Present](https://www.sanity.io/blog/why-you-should-do-your-first-tech-talk)!
+- Help with organization
+- Give ideas for topics for other presenters
+
+---
+
+## Sources
+
+- [The Tech Meetups Guide: How to Find, Join, or Start a Meetup](https://codesubmit.io/blog/guide-to-tech-meetups/)
+- [Why you should do your first tech talk](https://www.sanity.io/blog/why-you-should-do-your-first-tech-talk)
+- [Reddit comment about finding a job at tech meetups](https://www.reddit.com/r/cscareerquestions/comments/12skl6r/comment/jgzk1cu/)
+
+---

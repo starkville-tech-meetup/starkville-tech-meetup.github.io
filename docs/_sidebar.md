@@ -8,4 +8,6 @@
 
 * [Useful resources](resources.md)
 
+* [Presentations](presentations.md)
+* 
 <!-- * [My apology](my_apology.md) -->
