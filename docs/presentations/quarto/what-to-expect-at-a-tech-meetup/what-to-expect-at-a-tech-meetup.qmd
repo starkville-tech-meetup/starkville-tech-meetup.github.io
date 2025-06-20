@@ -96,8 +96,11 @@ format:
 
 ---
 
-# Tips to enjoy your first tech meetup
-
+## Tips to enjoy your first tech meetup
+- Beforehand 
+  - (whoops, too late if you're here)
+- During
+- Afterwards
 
 ---
 
