@@ -48,7 +48,7 @@ format:
   - programming language (C++, Rust, Python, Javascipt, APL, COBOL, Ada, Haskell, Swift, Clojure, etc.)
   - even a specific framework, like Rails or React
 - Focus on jobs/roles/industries (computer graphics, scientific computation, data analysis, automation, etc.)
-- Demographics (minority groups, [Women Who Code](https://www.womenwhocode.com/), high schoolers, etc.)
+- Demographics ([minority groups](https://www.cio.com/article/193688/professional-organizations-focused-on-diversity-in-tech.html), [Women Who Code](https://www.womenwhocode.com/), [high schoolers](https://www.lumiere-education.com/post/10-amazing-conferences-for-high-school-students-in-2024-2025), etc.)
 - "Technical" vs "Business"
 
 ---
