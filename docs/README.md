@@ -48,11 +48,11 @@ For some tips on tech meetups, see the [resources page](resources.md).
 
 </style>
 
-<a href="https://discord.gg/mQwu7K9dnG">
+<a href="https://discord.gg/pq42VUrH">
 <img id="discord-button" src="images/Discord-Logo-Blurple.svg" width="100"> </img>
 </a>
  &nbsp; &nbsp; <i>... That's it at the moment...</i>
 
 ### RSVP via Google Form
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeCNMQq9gpQ9c4j0FoePZnn3p64Ku4702QXTFH4ZQCN1nKIHQ/viewform?embedded=true" width="640" height="1511" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4n4lKvxJam3Vzob-0bPTU0Q6ybY6PgcuJ-WEvYAwwqGchWA/viewform?embedded=true" width="640" height="1511" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
