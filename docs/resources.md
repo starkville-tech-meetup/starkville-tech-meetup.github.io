@@ -1,5 +1,3 @@
-# Useful Resources
-
 ## Enjoying your first tech meetup
 
 * About halfway down [this article](https://codesubmit.io/blog/guide-to-tech-meetups/), in a section titled "Tips to enjoy your first tech meetup", there are some good suggestions on how to prep, act during, and follow-up after a tech meetup. It may or may not be relevant to this, but I would rather have more techniques/knowledge available to me than less!
