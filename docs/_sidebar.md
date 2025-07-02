@@ -2,12 +2,14 @@
 
 <!-- * [Blogs](blogs/README.md) -->
 <!-- * [projects](projects/README.md) -->
-* [General Info]()
+* [GTR Tech Connect]()
 
-* [Agenda (2025-06-20)](agenda_2025-06-20.md)
+
+* [Agenda - 2025-07-18](agenda_2025-07-18.md)
 
 * [Useful resources](resources.md)
 
 * [Presentations](presentations.md)
-* 
+
+* [This Website](this_website.md)
 <!-- * [My apology](my_apology.md) -->
