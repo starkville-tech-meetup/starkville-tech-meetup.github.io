@@ -48,6 +48,9 @@ This was a more "meta" presentation, so don't expect this to be representative o
 
  Discord seems to be the best way to stay in contact with the majority of people, but if you're interested in managing a page on other social media, let me know. 
 
+Also, please note the logo used in the top right corner is not the final logo we will use. This is just a placeholder for now!
+
 ### RSVP Form
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeX2Xg4z1zgMLBX9ceslSfrs2AkjO2lc_przwqDw0dx00OwEA/viewform?embedded=true" width="640" height="976" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
