@@ -2,13 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="256mm"
-   height="256mm"
-   viewBox="0 0 256 256"
+   width="198.02933mm"
+   height="233.00291mm"
+   viewBox="0 0 198.02933 233.00291"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="GTR Tech Connect Logo - name inside triangle - lowercase.svg"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
+   sodipodi:docname="gtr-tech-connect_logo.svg"
+   inkscape:export-filename="../b5f5a5ba/gtr_tech_connect_logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,13 +26,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="677.4083"
-     inkscape:cy="580.53467"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="1.3291178"
+     inkscape:cx="373.17985"
+     inkscape:cy="493.18426"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="66"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -44,7 +47,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-29.308057,-23.471198)">
     <path
        sodipodi:type="star"
        style="fill:#e9d758;fill-opacity:1;stroke-width:0.9652"
@@ -104,16 +108,5 @@
        transform="scale(0.26458333)"
        id="text41"
        style="font-weight:bold;font-size:9.33333px;font-family:'Courier New';-inkscape-font-specification:'Courier New, Bold';font-variation-settings:normal;white-space:pre;shape-inside:url(#rect41);display:inline;opacity:1;fill:#800000;fill-opacity:0.931095;stroke:#800000;stroke-width:3.40157;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:2.46944px;font-family:'Courier New';-inkscape-font-specification:'Courier New, Bold';font-variation-settings:normal;opacity:1;fill:#800000;fill-opacity:0.931095;stroke:#800000;stroke-width:0.899999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="80.433334"
-       y="256"
-       id="text42"><tspan
-         sodipodi:role="line"
-         id="tspan42"
-         style="stroke-width:0.9"
-         x="80.433334"
-         y="256">s</tspan></text>
   </g>
 </svg>
