@@ -6,6 +6,8 @@
 
 
 * [Agenda - 2025-07-18](agenda_2025-07-18.md)
+    * <a href="images/flyer/flyer_2025-07-18.svg" target="_blank">Flyer (different tab)</a>
+
 
 * [Useful resources](resources.md)
 
