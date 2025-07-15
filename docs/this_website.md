@@ -8,7 +8,7 @@ Among the many different tools that do this job, I ended up using [Docsify](http
 
 As I said above, I'm open to change; I just don't have the time to spend on this since 1) I'm not getting paid and 2) I am not a design aficionado/expert. So, as long as it gets my point across, people keep expressing interest in coming to the events, and no one complains, I have no motivation to work on it. 
 
-That said, if **you** want to volunteer your time to make suggestions as to the structure or UX or want to make direct contributions to the site's code, please see the [repo](https://github.com/starkville-tech-meetup/starkville-tech-meetup.github.io) for it (or click the logo at the top right of this page). If you do make a contribution somehow, note that I don't pay much attention to GitHub notifications yet, so message me another way if you have my contact info!
+That said, if **you** want to volunteer your time to make suggestions as to the structure/UX or want to make direct contributions to the site's code, please see the [repo](https://github.com/starkville-tech-meetup/starkville-tech-meetup.github.io) for it (or click the logo at the top right of this page). If you make a contribution, note that I don't pay much attention to GitHub notifications, so message me via the Discord or another way if you have my contact info!
 
 ## Found an error? 😱😅  
 
