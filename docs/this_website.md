@@ -2,7 +2,12 @@
 
 I do a lot of writing in Markdown professionally and personally[^1]. So, I figured the method for me to "make a website" that would scale well and not require the use of a [CMS](https://en.wikipedia.org/wiki/Content_management_system) would be to use a tool that could generate website pages from Markdown files.
 
-Among the many different tools that do this job, I ended up using [Docsify](https://docsify.js.org/#/) for my business site. This is mostly due to the fact that I essentially just want to convey useful information to people, and a documentation-centric design seems to fit that ethos. Not to mention that it's the first tool I dug into, and I'm just used to it. Not **committed** to it, just **used** to it. I'm very open to change, I just don't have the time to spend learning different tools to make a "perfect" modern website. All I wanted to do was communicate and hopefully not blind people with garrish appearances.
+Among the many different tools that do this job, I ended up using [Docsify](https://docsify.js.org/#/) for my business site. 
+This is mostly due to the fact that I essentially just want to convey useful information to people, and a documentation-centric design seems to fit that ethos. 
+Not to mention that it's the first tool I dug into, and I'm just used to it. 
+(Not **committed** to it, just **used** to it.) 
+I'm very open to change, I just don't have the time to spend learning different tools to make a "perfect" modern website. 
+All I wanted to do was communicate and hopefully not blind people with garrish appearances.
 
 ## Don't like how it looks or how it's structured?
 
