@@ -41,7 +41,7 @@ This was a more "meta" presentation, so don't expect this to be representative o
 
 </style>
 
-<a href="https://discord.gg/pq42VUrH">
+<a href="https://discord.gg/ngY4A8zR">
 <img id="discord-button" src="images/Discord-Logo-Blurple.svg" width="100"> </img>
 </a>
  &nbsp; &nbsp; <i>... That's it at the moment...</i>
