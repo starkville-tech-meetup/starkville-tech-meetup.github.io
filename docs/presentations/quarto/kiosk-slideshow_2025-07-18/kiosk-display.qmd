@@ -1,0 +1,47 @@
+---
+created: 2025-07-18T10:13
+updated: 2025-07-18T10:17
+format:
+  revealjs:
+    loop: true
+    autoSlide: 15000
+    autoSlideStoppable: false
+    controls: false
+    progress: false
+    keyboard: false
+    touch: false
+    transition: fade
+    backgroundTransition: fade
+---
+
+## Agenda
+
+- Meet and Greet (~6pm)
+- Purpose Statement (~6:30pm)
+- Lightning talks (~6:40pm) (optional)
+- Open networking 
+- End (~8pm)
+- Later: Survey for next time
+
+## Goals from the Audience {autoslide=20000}
+- Networking/Meet people
+- Interesting Conversations
+- Interested in technology
+- Vintage computing and electronics
+- Teach/Help
+- Learn
+- Seeing what other people are working on
+- See what this is about / Getting involved
+- All of the above / Everything
+
+## Potential Conversation Topics
+- What is your favorite project you are currently working on?
+- What projects have you worked on in the past?
+- What's your favorite bug hunting story?
+- Legacy code horrors? Everyone seems to have them.
+- Goals for your tech career/hobby?
+
+## Website
+
+### [techconnect.gtr.ms](https://techconnect.gtr.ms)
+![](techconnect_gtr_ms_qr-code.svg)
