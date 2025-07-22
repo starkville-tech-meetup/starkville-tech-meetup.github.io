@@ -1,3 +1,5 @@
+## Archive of 2025-06-20 Meetup page
+
 # Ready to meet and talk to other tech folks?
 
 We wanted to start a kind of software development/technology-focused meetup in Starkville.  
