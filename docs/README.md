@@ -59,7 +59,7 @@ here
 
 </style>
 
-<a href="https://discord.gg/ngY4A8zR">
+<a href="https://discord.gg/mQwu7K9dnG">
 <img id="discord-button" src="images/Discord-Logo-Blurple.svg" width="100"> </img>
 </a>
  &nbsp; &nbsp; <i>... That's it for now...</i>
