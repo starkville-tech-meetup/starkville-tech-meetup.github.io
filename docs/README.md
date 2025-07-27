@@ -12,7 +12,8 @@ The current plan for the August meeting is to start around 6pm Friday August 22n
 <button id="myButton">Add event to your device</button>
 </a>
 
-This will take place at [MSU](https://www.msstate.edu/), though the exact location is to be determined (TBD).
+For the foreseeable future, the meetups will take place at [the Hub](https://coworkmsu.com/) ([301 E Main St., Starkville, MS](https://www.google.com/maps/place/The+Hub/@33.4640187,-88.8137437,19.83z/data=!4m6!3m5!1s0x88813510f01510dd:0x454a02eaf7bde9c7!8m2!3d33.4643121!4d-88.8137627!16s%2Fg%2F11y4364z1j?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D)).  
+Note that parking is in the back of the building (2nd floor), but the doors are locked after hours. We will have a door greeter at the second floor entrance from ~6:00-6:10pm, but you will need to come around the building to the first floor if you arrive after that point.
 
 ### Presentations
 
@@ -20,7 +21,8 @@ From Dalton:
 For this month, I'm thinking of trying to help out the students with skills they could use to help them thrive in their education.  
 Since my impromptu demonstration of [Obsidian](https://obsidian.md/) went over pretty well last time, and I feel that it is excellent as an educational tool, I'd like at least one presentation to be on it! 
 Whether that is me or someone else that wants to talk about their note-taking journey, I think a well-structured introduction to using Obsidian 
-would be an excellent use of presentation time! (If we get two other presentations, I may even try to squeeze in 3 lightning talks just to fit Obsidian in!)
+would be an excellent use of presentation time!
+(If we get two other presentations, I may even try to squeeze in 3 lightning talks just to fit Obsidian in!)
 
 If you have a presentation to share that fits the general trend of "educational tools/resources" or "scholarly- and tech-relevant advice", please [let me know](mailto:techconnect.gtr.ms@gmail.com)!
 If you have something unrelated you would like to present at this next one or in the future, also [let me know](mailto:techconnect.gtr.ms@gmail.com)!
