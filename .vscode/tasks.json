@@ -1,0 +1,32 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Quarto Render",
+            "type": "shell",
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "command": "quarto render ${file} && xdg-open ${fileBasenameNoExtension}.html",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Browser Open Presentation",
+            "type": "shell",
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "dependsOn": ["Quarto Render"],
+            "command": "xdg-open ${fileBasenameNoExtension}.html",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build"            }
+        }
+    ]
+}
