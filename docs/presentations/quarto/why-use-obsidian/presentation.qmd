@@ -1,11 +1,16 @@
 ---
 title: "Why You Should Use Obsidian for Knowledge Management"
-author: "Your Name"
+author: "Dalton Winans-Pruitt"
 format: 
   revealjs:
-    theme: default
+    theme: dracula
     transition: slide
-    background-transition: fade
+    incremental: true
+    transition-speed: default
+    background-transition: convex
+    auto-animate: true
+    auto-animate-easing: ease-in-out
+    auto-animate-duration: 0.8
 ---
 
 ## Why You Should Use Obsidian for Knowledge Management
@@ -20,145 +25,178 @@ I believe in having your thoughts "written" down (including digitally).
 
 ---
 
-### Communication {.smaller}
+### Communication {.smaller auto-animate="true"}
 
+::: {.fragment .fade-in}
 Writing helps you think things through for yourself (like "Rubber Ducky Debugging").
+:::
 
-. . .
-
+::: {.fragment .fade-in}
 **The Telephone Game Problem:**
-
+:::
 - Brain → Mouth → Ears → Brain
 - That's at least 3 steps of potential miscommunication!
 
-. . .
-
-Putting thoughts into optimal word choice helps ensure you communicate to other people's brains with **as little ambiguity as possible**.
+::: {.fragment .zoom-in}
+Thoughts → optimal word choice → **reduces ambiguity**
+:::
 
 ---
 
-### Memory {.smaller}
+### Memory {.smaller auto-animate="true"}
 
+::: {.fragment .fade-in}
 Our memory isn't actually that bad in general.
+:::
 
-. . .
-
+::: {.fragment .fade-in}
 **But we're inundated with information...**
+:::
 
+::: {.fragment .fade-in}
 Do you have a favorite kind of commercial?
+:::
 
 - Mine are the funny ones! 
-- I can sing song-length jingles from the mid-2000s and early 2010s...
+- My crappy superpower: Remembering stupid song lyrics
 - But can I remember important work details? 🤔
 
 ---
 
-### Memory Solutions
+### Memory Solutions {auto-animate="true"}
 
+::: {.fragment .fade-in}
 **Spaced Repetition:**
+:::
 - Use tools with information baked in
 - Write on physical or digital flashcards
 
-. . .
-
+::: {.fragment .fade-in}
 **Or simply offload important memories by writing them down**
+:::
 
+::: {.fragment .semi-fade-out}
 Maybe you'll remember them better because you wrote them down! 🤷‍♂️
+:::
 
 ---
 
-### Creativity
+### Creativity {auto-animate="true"}
 
+::: {.fragment .fade-in}
 > Everything you've ever read had to be written.
+:::
 
-. . .
 
-*Mic drop...*
-
----
-
-### Many Other Reasons
-
-[Here's 45 other reasons writing is good!](https://upjourney.com/why-is-writing-important)
+::: {.fragment .zoom-in}
+*Mic drop...* 🎤
+:::
 
 ---
 
-## Why You Should Use Obsidian to Write
+### Many Other Reasons {auto-animate="true"}
 
+::: {.fragment .bounce-in}
+[Here're 45 other reasons writing is good!](https://upjourney.com/why-is-writing-important)
+:::
+
+---
+
+## Why You Should Use **Obsidian** to Write {auto-animate="true"}
+
+::: {.fragment .fade-in}
 *Four Core Advantages*
+:::
 
 ---
 
-### Portability {.smaller}
+### Portability {.smaller auto-animate="true"}
 **Prefer Plain; Prohibit Proprietary**
 
-- **Markdown is just "plain text"**
+::: {.fragment .fade-in}
+**Markdown is just "plain text"**
+:::
 - No third-party tools needed to read and write
-- **You own the files**
+
+::: {.fragment .fade-in}
+**You own the files**
+:::
 - Stored locally, offline work
 - Easily syncable via cloud services
 
+
 ---
 
-### Configurable {.smaller}
+### Configurable {.smaller auto-animate="true"}
 **Customize, Completely Change, and/or Combine Cool Components**
 
+::: {.fragment .fade-in}
 > *Alter and Adapt Almost All Appearances*
+:::
 
 ---
 
-### Rich Plugin Ecosystem {.smaller}
+### Rich Plugin Ecosystem {.smaller auto-animate="true"}
 
-Obsidian tackles basically everything most writing software does:
+::: {.fragment .fade-in}
+Obsidian can handle basically everything most writing software does:
+:::
 
 :::: {.columns}
 
 ::: {.column width="50%"}
+::: {.fragment .slide-in-left}
 - Themes
 - Automations
 - Templating
-- Task management
+- Task management 
 - SQL queries
+:::
 :::
 
 ::: {.column width="50%"}
+::: {.fragment .slide-in-right}
 - Reward systems/gamification
 - API services
 - AI integration
 - Git integration
 - RSS feeds
 :::
+:::
 
 ::::
 
-. . .
-
-**Over 2,600 community plugins** - most available for free!
-
+::: {.fragment .fade-in}
+**Over 2,600 community plugins** - most available for free!  
+:::
+::: {.fragment .fade-in .smallest}
 *(I've thought about it almost similar to Emacs...)*
+:::
 
 ---
 
-### Searchability {.smaller}
+### Searchability {.smaller auto-animate="true"}
 **Solution to Seek the Sweetest of Secrets**
 
+::: {.fragment .fade-in-then-semi-out}
 You can find **anything**.
+:::
 
-. . .
-
+::: {.fragment .fade-in-then-semi-out}
 ...
+:::
 
-. . .
-
+::: {.fragment .fade-in}
 *pretty much anything*
+:::
 
-. . .
-
-There's even a plugin to let you search the settings (because it will grow to a point you can't keep in your own mental contexts).
+::: {.fragment .fade-in}
+There's even a plugin to let you search the settings...
+:::
 
 ---
 
-### Linking {.smaller}
+### Linking {.smaller auto-animate="true"}
 **Links Lead to Limitless Learning**
 
 - Developing a web of knowledge takes time
@@ -167,64 +205,76 @@ There's even a plugin to let you search the settings (because it will grow to a 
 
 ---
 
-### Other Reasons {.smaller}
+### Other Reasons {.smaller auto-animate="true"}
 
 :::: {.columns}
 
 ::: {.column width="50%"}
+::: {.fragment .slide-in-left}
 - Simple to start
 - **NAMED LINKS**
 - Allows code (because Markdown)
 - Graph view is pretty...
 - Fast to write*
 :::
+:::
 
 ::: {.column width="50%"}
+::: {.fragment .slide-in-right}
 - Todo lists
 - Long-term project management
 - Automatability (templates, scripts)
 - Lots and LOTS of extra features
 :::
+:::
 
 ::::
 
+::: {.fragment .fade-in}
 *\*depending on computer power, computational need of plugins, etc.*
+:::
 
 ---
 
-## Other People Talking About It
+## Other People Talking About It {auto-animate="true"}
 
----
+### Recommended Creators {auto-animate="true"}
 
-### Recommended Creators
-
+::: {.fragment .fade-in}
 **[No Boilerplate](https://www.youtube.com/@NoBoilerplate/search?query=obsidian)** (Two videos)
-- Highly recommend for coding in general
+:::
+- Highly recommend for coding and writing in general
 - Very opinionated, but I like most of his thoughts
 
-. . .
-
+::: {.fragment .fade-in}
 **[Odysseas - Obsidian: The King of Learning Tools](https://www.youtube.com/watch?v=hSTy_BInQs8)**
-- Realistic and minimalistic setup guide
+:::
+- Realistic and minimal setup guide
 
 ---
 
-### Even More Resources
+### Even More Resources {auto-animate="true"}
 
+::: {.fragment .zoom-in}
 [Tons and tons and tons of others](https://www.youtube.com/results?search_query=obsidian)
+:::
 
+::: {.fragment .fade-in}
 ...and that's just YouTube!
+:::
 
 ---
 
-## Conclusions
+## Conclusions {auto-animate="true"}
 
-. . .
-
-# Just do it!
+::: {.fragment .zoom-in}
+#### Just do it!
+:::
 
 ---
 
-## Questions?
+## Questions? {auto-animate="true"}
 
+::: {.fragment .fade-in}
 *Let's build better brains together*
+:::
