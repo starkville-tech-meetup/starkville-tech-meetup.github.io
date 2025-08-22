@@ -1,5 +1,5 @@
 ---
-title: "Why You Should Use Obsidian for Knowledge Management"
+title: "Why You Should Use Obsidian"
 author: "Dalton Winans-Pruitt"
 format: 
   revealjs:
