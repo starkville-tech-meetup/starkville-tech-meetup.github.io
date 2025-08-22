@@ -1,6 +1,6 @@
 
 * <a href="presentations/quarto/why-use-obsidian/presentation.html" target="_blank">Why You Should Use Obsidian</a>
-* <a href="presentations/quarto/kiosk-slideshow_/kiosk-display.html" target="_blank">Kiosk Slideshow (Latest)</a>
+* <a href="presentations/quarto/kiosk-slideshow/kiosk-display.html" target="_blank">Kiosk Slideshow (Latest)</a>
 
 
 
