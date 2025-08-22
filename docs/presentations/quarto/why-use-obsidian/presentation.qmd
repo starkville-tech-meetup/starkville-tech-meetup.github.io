@@ -1,0 +1,230 @@
+---
+title: "Why You Should Use Obsidian for Knowledge Management"
+author: "Your Name"
+format: 
+  revealjs:
+    theme: default
+    transition: slide
+    background-transition: fade
+---
+
+## Why You Should Use Obsidian for Knowledge Management
+
+*Building a Better Brain with Better Tools*
+
+---
+
+## Why Writing Things Down is Awesome
+
+I believe in having your thoughts "written" down (including digitally).
+
+---
+
+### Communication {.smaller}
+
+Writing helps you think things through for yourself (like "Rubber Ducky Debugging").
+
+. . .
+
+**The Telephone Game Problem:**
+
+- Brain → Mouth → Ears → Brain
+- That's at least 3 steps of potential miscommunication!
+
+. . .
+
+Putting thoughts into optimal word choice helps ensure you communicate to other people's brains with **as little ambiguity as possible**.
+
+---
+
+### Memory {.smaller}
+
+Our memory isn't actually that bad in general.
+
+. . .
+
+**But we're inundated with information...**
+
+Do you have a favorite kind of commercial?
+
+- Mine are the funny ones! 
+- I can sing song-length jingles from the mid-2000s and early 2010s...
+- But can I remember important work details? 🤔
+
+---
+
+### Memory Solutions
+
+**Spaced Repetition:**
+- Use tools with information baked in
+- Write on physical or digital flashcards
+
+. . .
+
+**Or simply offload important memories by writing them down**
+
+Maybe you'll remember them better because you wrote them down! 🤷‍♂️
+
+---
+
+### Creativity
+
+> Everything you've ever read had to be written.
+
+. . .
+
+*Mic drop...*
+
+---
+
+### Many Other Reasons
+
+[Here's 45 other reasons writing is good!](https://upjourney.com/why-is-writing-important)
+
+---
+
+## Why You Should Use Obsidian to Write
+
+*Four Core Advantages*
+
+---
+
+### Portability {.smaller}
+**Prefer Plain; Prohibit Proprietary**
+
+- **Markdown is just "plain text"**
+- No third-party tools needed to read and write
+- **You own the files**
+- Stored locally, offline work
+- Easily syncable via cloud services
+
+---
+
+### Configurable {.smaller}
+**Customize, Completely Change, and/or Combine Cool Components**
+
+> *Alter and Adapt Almost All Appearances*
+
+---
+
+### Rich Plugin Ecosystem {.smaller}
+
+Obsidian tackles basically everything most writing software does:
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Themes
+- Automations
+- Templating
+- Task management
+- SQL queries
+:::
+
+::: {.column width="50%"}
+- Reward systems/gamification
+- API services
+- AI integration
+- Git integration
+- RSS feeds
+:::
+
+::::
+
+. . .
+
+**Over 2,600 community plugins** - most available for free!
+
+*(I've thought about it almost similar to Emacs...)*
+
+---
+
+### Searchability {.smaller}
+**Solution to Seek the Sweetest of Secrets**
+
+You can find **anything**.
+
+. . .
+
+...
+
+. . .
+
+*pretty much anything*
+
+. . .
+
+There's even a plugin to let you search the settings (because it will grow to a point you can't keep in your own mental contexts).
+
+---
+
+### Linking {.smaller}
+**Links Lead to Limitless Learning**
+
+- Developing a web of knowledge takes time
+- Accumulate knowledge and make connections organically
+- Sometimes you notice something you didn't before!
+
+---
+
+### Other Reasons {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Simple to start
+- **NAMED LINKS**
+- Allows code (because Markdown)
+- Graph view is pretty...
+- Fast to write*
+:::
+
+::: {.column width="50%"}
+- Todo lists
+- Long-term project management
+- Automatability (templates, scripts)
+- Lots and LOTS of extra features
+:::
+
+::::
+
+*\*depending on computer power, computational need of plugins, etc.*
+
+---
+
+## Other People Talking About It
+
+---
+
+### Recommended Creators
+
+**[No Boilerplate](https://www.youtube.com/@NoBoilerplate/search?query=obsidian)** (Two videos)
+- Highly recommend for coding in general
+- Very opinionated, but I like most of his thoughts
+
+. . .
+
+**[Odysseas - Obsidian: The King of Learning Tools](https://www.youtube.com/watch?v=hSTy_BInQs8)**
+- Realistic and minimalistic setup guide
+
+---
+
+### Even More Resources
+
+[Tons and tons and tons of others](https://www.youtube.com/results?search_query=obsidian)
+
+...and that's just YouTube!
+
+---
+
+## Conclusions
+
+. . .
+
+# Just do it!
+
+---
+
+## Questions?
+
+*Let's build better brains together*
