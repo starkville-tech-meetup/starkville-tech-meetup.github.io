@@ -1,36 +1,36 @@
 ### Ready to meet and talk with other tech folks?
 
-We have begun a software tech-focused meetup in Starkville! 💻️  
-The first two were on [6/20/2025](archive/first_meetup.md) and [7/18/2025](archive/2025-07-18_meetup.md).  
-Please see the RSVP form at the bottom of this page if you are interested in coming to this event or just interested in general.
+We have been hosting a tech-focused meetup in Starkville! 💻️  
+The first three were on:
+- [6/20/2025](archive/first_meetup.md),
+- [7/18/2025](archive/2025-07-18_meetup.md), and
+- [7/18/2025](archive/2025-08-22_meetup.md).
+
+Please see the RSVP form at the bottom of this page if you are interested in coming to this event or just interested in general!
 
 ### Time and Place
-The current plan for the August meeting is to start around 6pm Friday August 22nd.  
+The current plan for the September meeting is to start around **6pm Friday September 19th**.  
 
 <link rel="stylesheet" href="styles/buttons.css">
-<a href="https://calendar.online/event/page/c2956ad1e5a47357b62936e7e94f6029609c7c29bdb3a832b2" target="_blank">
+<a href="https://calendar.online/event/page/02e0370f0273e61d23670894ff14a6ffb44f77a95f6a015c67" target="_blank">
 <button id="myButton">Add event to your device</button>
 </a>
 
 For the foreseeable future, the meetups will take place at [the Hub](https://coworkmsu.com/) ([301 E Main St., Starkville, MS](https://www.google.com/maps/place/The+Hub/@33.4640187,-88.8137437,19.83z/data=!4m6!3m5!1s0x88813510f01510dd:0x454a02eaf7bde9c7!8m2!3d33.4643121!4d-88.8137627!16s%2Fg%2F11y4364z1j?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D)).  
-Note that parking is in the back of the building (2nd floor), but the doors are locked after hours. We will have a door greeter at the second floor entrance from ~6:00-6:10pm, but you will need to come around the building to the first floor if you arrive after that point.
+Note that parking is in the back of the building (2nd floor), but the doors are locked after hours. We hope to have a door greeter at the second floor entrance from ~6:00-6:10pm, but you will need to come around the building to the first floor if you arrive after that point.
 
 ### Presentations
 
 From Dalton:
-For this month, I'm thinking of trying to help out the students with skills they could use to help them thrive in their education.  
-Since my impromptu demonstration of [Obsidian](https://obsidian.md/) went over pretty well last time, and I feel that it is excellent as an educational tool, I'd like at least one presentation to be on it! 
-Whether that is me or someone else that wants to talk about their note-taking journey, I think a well-structured introduction to using Obsidian 
-would be an excellent use of presentation time!
-(If we get two other presentations, I may even try to squeeze in 3 lightning talks just to fit Obsidian in!)
-
-If you have a presentation to share that fits the general trend of "educational tools/resources" or "scholarly- and tech-relevant advice", please [let me know](mailto:techconnect.gtr.ms@gmail.com)!
+Up to this point, I feel like the presentations have been mostly a "Dalton has a captive audience to rant about something he likes" kind of thing, and I don't like that.
+This time, I will do my best to solicit presentations from you guys directly, and if no one wants to, then we'll skip that part entirely. 🤷‍♂️  
+So, if you have a presentation to share that (no current theme yet; you can set it!), please [let me know](mailto:techconnect.gtr.ms@gmail.com)!
 If you have something unrelated you would like to present at this next one or in the future, also [let me know](mailto:techconnect.gtr.ms@gmail.com)!
 
 
 ### Further Reading
 
-See [provided agenda](agenda_2025-08-22.md) for the 8/22 meeting.
+See this [provided agenda](agenda_next.md) for the upcoming meeting. (But also be aware this could change..)
 
 For some tips on getting the most out of tech meetups, see the [resources page](resources.md).  
 TL;DR? Here's a 
@@ -39,11 +39,7 @@ brief presentation
 </a> 
 on the same topic.
 
-You can also see the slides for an automation-relevant presentation from the second meetup 
-<a href="presentations/quarto/automating-where-you-least-expect/presentation.html" target="_blank">
-here
-</a>. 
-
+You can also see the slides for past presentations [here](presentations.md).
 
 ### Social Media
 <style>
@@ -71,4 +67,4 @@ I currently just post and share from my personal accounts on Facebook and Nextdo
 
 ### RSVP Form
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSezr4-Fb82eWzVHZVkNMF7H6wfoxBZykAN5fBKpFMuva1gWaw/viewform?embedded=true" width="640" height="991" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdATkrr859X1IKC2M7C_YYd5AVtIN-XRvTlyGOPJfVi9imTcg/viewform?embedded=true" width="640" height="993" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
