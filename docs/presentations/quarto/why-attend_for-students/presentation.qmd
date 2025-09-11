@@ -1,0 +1,106 @@
+---
+title: "Why Go to a Tech Meetup?"
+author: "Dalton Winans-Pruitt"
+format: 
+  revealjs:
+    theme: dracula
+    transition: slide
+    incremental: true
+    transition-speed: default
+    background-transition: convex
+    auto-animate: true
+    auto-animate-easing: ease-in-out
+    auto-animate-duration: 0.8
+    plugins: ["notes"]
+---
+
+
+## Three big ideas
+- *Learn how to network / what networking is*
+- *Find people that can help you solve problems*
+- *Talk to people (outside of your major) that understand what you're saying*
+
+---
+
+## What are you learning in classes?
+- theory
+- hard/technical skills (programming, debugging, decomposing technical problems, etc.)
+- soft/general skills (problem-solving, critical thinking, teamwork, etc.)
+
+---
+
+## But what about...
+::: {.fragment .fade-in}
+**Networking?**
+:::
+
+::: {.fragment .fade-in}
+![](computer_networking.jpg)
+:::
+
+
+::: notes
+No, not this networking.  
+People networking. The hard kind.
+:::
+
+---
+
+## Network effect is real
+
+![](network_effect.jpg)
+
+
+::: notes
+You can develop networks like this and gain some skills from within your friend groups, clubs, interest groups...  
+But you likely won't approach this from a career-centric viewpoint.
+:::
+
+---
+
+## Get help solving problems
+*or inspriation on problems to solve*
+
+::: {.fragment .fade-in}
+Categories of people to talk to: 
+:::
+- people with problems
+- people that have solved problems in various domains
+- people that know how to translate problems between domains
+
+---
+
+![](people_to_talk_to_venn_diagram.png)
+
+::: notes
+And networking isn't all about growing your career. 
+It's also about just growing in your ability to talk with people about things you like.
+
+<!-- And I don't mean necessarily corporate-career viewpoint.   -->
+Think more about it from a *"How can I talk to people and help solve their problems?"* viewpoint.  
+:::
+
+---
+
+## Talk to people that understand you
+::: {.fragment .fade-in}
+*and can help you grow*
+:::
+
+::: {.fragment .fade-in}
+I mean, besides those in class...
+:::
+
+---
+
+## So, go!
+- There will also be drinks (soda)/snacks/treats
+- But don't count on a full meal...
+
+::: {layout-ncol=2}
+
+![](../../../images/gtr-tech-connect_logo_tight.svg){width=400}
+
+![](../../../images/qr-code_techconnect-gtr-ms.svg){width=400}
+
+:::
