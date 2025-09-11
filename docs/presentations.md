@@ -1,11 +1,13 @@
 
+* <a href="presentations/quarto/why-attend_for-students/presentation.html" target="_blank">Why You Should Attend a Tech Meetup (Students)</a>
+
 * <a href="presentations/quarto/why-use-obsidian/presentation.html" target="_blank">Why You Should Use Obsidian</a>
 * <a href="presentations/quarto/kiosk-slideshow/kiosk-display.html" target="_blank">Kiosk Slideshow (Latest)</a>
 
 
 
 ## Old
-* <a href="presentations\quarto\what-to-expect-at-a-tech-meetup\what-to-expect-at-a-tech-meetup.html" target="_blank">What to expect</a>
+* <a href="presentations\quarto\what-to-expect-at-a-tech-meetup\what-to-expect-at-a-tech-meetup.html" target="_blank">What to Expect at a Tech Meetup</a>
 * <a href="presentations/quarto/automating-where-you-least-expect/presentation.html" target="_blank">Automation in the Modern Age</a>
 
 
