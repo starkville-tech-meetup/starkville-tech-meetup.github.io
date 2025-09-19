@@ -21,11 +21,10 @@ format:
 ## Agenda
 
 - Meet and Greet (~6pm)
-- Purpose Statement (~6:45pm)
-- 'Round-the-Room Intros (~6:45pm)
-- Lightning talks (~7:05pm) (optional)
-- Continued networking (+ Lightning talk follow-ups) 
-- End (~8pm; we'll see if that is accurate...)
+- Purpose Statement (~6:15pm)
+- 'Round-the-Room Intros (~6:20pm)
+- Continued networking
+- End (~8pm)
 
 ## Goals from the Audience {autoslide=20000}
 - Networking/Meet people
