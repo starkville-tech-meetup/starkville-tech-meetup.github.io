@@ -21,16 +21,12 @@ Note that parking is in the back of the building (2nd floor), but the doors are 
 
 ### Presentations
 
-From Dalton:
-Up to this point, I feel like the presentations have been mostly a "Dalton has a captive audience to rant about something he likes" kind of thing, and I don't like that.
-This time, I will do my best to solicit presentations from you guys directly, and if no one wants to, then we'll skip that part entirely. 🤷‍♂️  
-So, if you have a presentation to share that (no current theme yet; you can set it!), please [let me know](mailto:techconnect.gtr.ms@gmail.com)!
-If you have something unrelated you would like to present at this next one or in the future, also [let me know](mailto:techconnect.gtr.ms@gmail.com)!
+Currently, we have one presentation lined up on the Right-to-Repair movement!
 
 
 ### Further Reading
 
-See this [provided agenda](agenda_next.md) for the upcoming meeting. (But also be aware this could change..)
+See this [provided agenda](agenda_next.md) for the upcoming meeting.
 
 For some tips on getting the most out of tech meetups, see the [resources page](resources.md).  
 TL;DR? Here's a 
@@ -39,7 +35,7 @@ brief presentation
 </a> 
 on the same topic.
 
-You can also see the slides for past presentations [here](presentations.md).
+You can also see the slides for other past presentations [here](presentations.md).
 
 ### Social Media
 <style>
