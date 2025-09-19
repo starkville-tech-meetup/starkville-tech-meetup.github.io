@@ -4,6 +4,9 @@
 <!-- * [projects](projects/README.md) -->
 * [GTR Tech Connect]()
 
+* [The Instructions](instructions.md)
+
+
 * [Agenda](agenda_next.md)
     * <a href="images/flyer/flyer_2025-08-22.svg" target="_blank">Flyer for 8/22 meeting (different tab)</a>
 
