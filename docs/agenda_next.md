@@ -37,11 +37,7 @@ Just whatever you are comfortable sharing and/or want to connect with others ove
 >❗️ **You can also “pass” on this part; completely understand!**
 
 
-## Lightning talks (~6:45pm) (optional)
-1st Presentation - ~10min + 5min Q&A
-2nd Presentation - ~10min + 5min Q&A
-
-## Continued networking (+ Lightning talk follow-ups)
+## Continued networking
 More talking!
 
 ## End (~8pm)

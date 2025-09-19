@@ -21,7 +21,7 @@ Note that parking is in the back of the building (2nd floor), but the doors are 
 
 ### Presentations
 
-Currently, we have one presentation lined up on the Right-to-Repair movement!
+There will not be any lightning talks at this meetup, but hopefully there will be one next time!
 
 
 ### Further Reading
