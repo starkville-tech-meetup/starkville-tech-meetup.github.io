@@ -8,7 +8,10 @@
 
 
 * [Agenda](agenda_next.md)
-    * <a href="images/flyer/flyer_2025-08-22.svg" target="_blank">Flyer for 8/22 meeting (different tab)</a>
+
+* Flyers
+    * <a href="images/flyer/Tech Connect - Red Orange and Yellow Modern Flyer (v3).pdf" target="_blank">PDF</a>
+    * <a href="images/flyer/Tech Connect - Modern Flyer (v3).pdf" target="_blank">SVG</a>
 
 
 * [Useful resources](resources.md)
