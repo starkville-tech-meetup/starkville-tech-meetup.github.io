@@ -1,4 +1,4 @@
-# 2025-08-22 Agenda
+# 2025-09-19 Agenda
 
 ## Meet and Greet (~6pm)
 Just talk!
@@ -11,7 +11,7 @@ Some example "topics":
 - ...AI?
 No formal group-wide ice breakers! You have your own ice breakers: your interests!
 
-## Purpose Statement (~6:45pm)
+## Purpose Statement (~6:15pm)
 Goals of these events:
 - Networking/relationships
 - Mentoring & sharing knowledge
@@ -24,10 +24,10 @@ Future Goals - Same as above, but also:
 - Product discovery
 - Potential career-fair-like option?
 
-## 'Round-the-Room Intros (~6:45pm)
-Give a short (<1m) introduction
+## 'Round-the-Room Intros (~6:20pm)
+Give a short (< 45s) introduction
 Include anything you want people to know, such as:
-- current role/degree
+- current role/degree program
 - fun projects (including side projects)
 - community involvement
 - non-tech interests
@@ -37,9 +37,7 @@ Just whatever you are comfortable sharing and/or want to connect with others ove
 >❗️ **You can also “pass” on this part; completely understand!**
 
 
-Invitation to listen to lightning talks or continue talking.
-
-## Lightning talks (~7:05pm) (optional)
+## Lightning talks (~6:45pm) (optional)
 1st Presentation - ~10min + 5min Q&A
 2nd Presentation - ~10min + 5min Q&A
 
@@ -48,7 +46,3 @@ More talking!
 
 ## End (~8pm)
 Closing thoughts/discussion.
-Retrospective?
-
-## After meeting (next day or so)
-Send out survey asking important questions.
