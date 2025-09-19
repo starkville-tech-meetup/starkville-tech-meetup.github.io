@@ -6,7 +6,7 @@ If you haven't come to one of these before today,
 You're probably wondering what is going on or what will happen.
 
 ### **Step 1: Sign in!**  
-You can use the kiosk computer showing the Google Form, or scan the QR code on the sheet beside to enter your name. It doesn't have to be your full name or even your real name, but it will come up later, so be sure you can recognize it!
+You can use the kiosk computer showing the Google Form, or scan the QR code on the sheet beside to enter your name. It doesn't have to be your full name, but it will come up later, so be sure you can recognize it!
 
 ### **Step 2: Get to listening and talking**  
 The general goal is to meet other people, figure out what others are working on, find people with shared interests, and potentially make longer-term connections.
