@@ -11,7 +11,7 @@ The first three were on:
 Please see the RSVP form at the bottom of this page if you are interested in coming to this event or just interested in general!
 
 ### Time and Place
-The current plan for the October meeting is to start around **6pm Friday the 21st**.  
+The current plan for the November meeting is to start around **6pm Friday the 21st**.  
 
 <link rel="stylesheet" href="styles/buttons.css">
 <a href="https://calendar.online/event/page/0863cebd78ea8fddaaf11842bd18b832767322dc54a0916230" target="_blank">
