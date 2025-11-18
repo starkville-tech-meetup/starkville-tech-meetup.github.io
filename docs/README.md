@@ -1,5 +1,25 @@
-#### Current number RSVP'd for the 11/21 meetup: 
-<div id="rsvp-count"><p style="font-size: 40px;">Please Wait...</p></div>
+#### Current number RSVP'd for the 11/21 meetup:
+<div id="rsvp-count">
+  <div class="loading-spinner"></div>
+  <!-- <p></p> -->
+</div>
+
+<style>
+.loading-spinner {
+  border: 4px solid #f3f3f3;
+  border-top: 4px solid #3498db;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+  margin: 0 auto;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+</style>
 
 <script>
 const API_URL = "https://script.google.com/macros/s/AKfycbyrvYw4Sdk-gxJjMkvdlxEaCGlSgE2t_VMGIl3x6tM4LIvz4dNp4UV6KDeO5xTTFe4u/exec";
