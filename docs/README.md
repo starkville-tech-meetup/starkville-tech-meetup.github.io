@@ -37,6 +37,8 @@ fetch(API_URL)
     countDiv.innerHTML = `Failed to load data; email me at <a href="mailto:techconnect.gtr.ms@gmail.com" target="_blank">techconnect.gtr.ms@gmail.com</a>`;
   });
 </script> 
+  
+Want to see this number go up? Fill out the RSVP at the bottom of this page!
 
 
 ### Ready to meet and talk with other tech folks?
