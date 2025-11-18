@@ -1,3 +1,24 @@
+#### Current number RSVP'd for the 11/21 meetup: 
+<div id="rsvp-count"><p style="font-size: 40px;">Please Wait...</p></div>
+
+<script>
+const API_URL = "https://script.google.com/macros/s/AKfycbyrvYw4Sdk-gxJjMkvdlxEaCGlSgE2t_VMGIl3x6tM4LIvz4dNp4UV6KDeO5xTTFe4u/exec";
+
+fetch(API_URL)
+  .then(response => response.json())
+  .then(data => {
+    console.log(`data = ${JSON.stringify(data)}`);
+    const countDiv = document.querySelector("#rsvp-count");
+    countDiv.innerHTML = `<p style="font-size: 40px;">${data["count"]}</p>`;
+  })
+  .catch(err => {
+    console.error("Error fetching sheet data:", err);
+    const countDiv = document.querySelector("#sheet-data div");
+    countDiv.innerHTML = `Failed to load data; email me at <a href="mailto:techconnect.gtr.ms@gmail.com" target="_blank">techconnect.gtr.ms@gmail.com</a>`;
+  });
+</script> 
+
+
 ### Ready to meet and talk with other tech folks?
 
 We have been hosting a tech-focused meetup in Starkville! 💻️  
