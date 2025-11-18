@@ -29,7 +29,7 @@ fetch(API_URL)
   .then(data => {
     console.log(`data = ${JSON.stringify(data)}`);
     const countDiv = document.querySelector("#rsvp-count");
-    countDiv.innerHTML = `<p style="font-size: 40px;">${data["count"]}</p>`;
+    countDiv.innerHTML = `<p style="font-size: 50px; text-align:center; margin: 0;">${data["count"]}</p>`;
   })
   .catch(err => {
     console.error("Error fetching sheet data:", err);
