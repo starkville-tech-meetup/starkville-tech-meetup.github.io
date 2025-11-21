@@ -22,13 +22,13 @@ format:
 
 - Meet and Greet (~6pm)
 - Purpose Statement (~6:15pm)
-- 'Round-the-Room Intros (~6:20pm)
+- Round-the-Room Intros (~6:20pm)
 - Continued networking
 - End (~8pm)
 
-## Goals from the Audience {autoslide=20000}
-- Networking/Meet people
-- Interesting Conversations
+## Goals from the Audience {autoslide=25000}
+- Networking / Meet people
+- Interesting conversations
 - Interested in technology
 - Vintage computing and electronics
 - Teach/Help
