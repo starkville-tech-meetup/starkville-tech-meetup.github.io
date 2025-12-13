@@ -41,16 +41,9 @@ fetch(API_URL)
 Want to see this number go up? Fill out the RSVP at the bottom of this page!
 
 
-### Ready to meet and talk with other tech folks?
+### Let's close out 2025 with some connecting!
 
-We have been hosting a tech-focused meetup in Starkville! 💻️  
-The first were on:
-- [6/20/2025](archive/first_meetup.md),
-- [7/18/2025](archive/2025-07-18_meetup.md),
-- [8/22/2025](archive/2025-08-22_meetup.md),
-- [9/19/2025](archive/2025-09-19_meetup.md),
-- [10/17/2025](archive/2025-10-17_meetup.md), and
-- [11/21/2025](archive/2025-11-21_meetup.md).
+I want to invite you to the final Tech Connect GTR meetup of 2025!  I'm hoping we can discuss how the year went for us and how we can create more opportunities for connection and growth in 2026!
 
 Please see the RSVP form at the bottom of this page if you are interested in coming to this event or just interested in general!
 
@@ -62,7 +55,7 @@ The current plan for the November meeting is to start around **6pm Friday the 19
 <button id="myButton">Add event to your device</button>
 </a>
 
-For the foreseeable future, the meetups will take place at [the Hub](https://coworkmsu.com/) ([301 E Main St., Starkville, MS](https://www.google.com/maps/place/The+Hub/@33.4640187,-88.8137437,19.83z/data=!4m6!3m5!1s0x88813510f01510dd:0x454a02eaf7bde9c7!8m2!3d33.4643121!4d-88.8137627!16s%2Fg%2F11y4364z1j?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D)).  
+The meetups take place at [the Hub](https://coworkmsu.com/) ([301 E Main St., Starkville, MS](https://www.google.com/maps/place/The+Hub/@33.4640187,-88.8137437,19.83z/data=!4m6!3m5!1s0x88813510f01510dd:0x454a02eaf7bde9c7!8m2!3d33.4643121!4d-88.8137627!16s%2Fg%2F11y4364z1j?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D)).  
 Note that parking is in the back of the building (2nd floor), but the doors are locked after hours. We hope to have a door greeter at the second floor entrance from ~6:00-6:10pm, but you will need to come around the building to the first floor if you arrive after that point.
 
 ### Presentations
