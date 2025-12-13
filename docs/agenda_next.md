@@ -1,4 +1,4 @@
-# 2025-09-19 Agenda
+# 2025-12-19 Agenda
 
 ## Meet and Greet (~6pm)
 Just talk!
@@ -24,21 +24,7 @@ Future Goals - Same as above, but also:
 - Product discovery
 - Potential career-fair-like option?
 
-## 'Round-the-Room Intros (~6:20pm)
-Give a short (< 45s) introduction
-Include anything you want people to know, such as:
-- current role/degree program
-- fun projects (including side projects)
-- community involvement
-- non-tech interests
-- etc. 
-Just whatever you are comfortable sharing and/or want to connect with others over. 
-
->❗️ **You can also “pass” on this part; completely understand!**
-
-
 ## Continued networking
-More talking!
 
 ## End (~8pm)
 Closing thoughts/discussion.
