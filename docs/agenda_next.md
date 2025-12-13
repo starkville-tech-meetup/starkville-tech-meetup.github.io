@@ -1,15 +1,8 @@
 # 2025-12-19 Agenda
+Closing out the year with another meetup!
 
 ## Meet and Greet (~6pm)
-Just talk!
-Some example "topics":
-- What are you currently working on?
-- What have you worked on in the past?
-- What's your favorite bug hunting story?
-- Legacy code stories?
-- Goals for your tech career/hobby?
-- ...AI?
-No formal group-wide ice breakers! You have your own ice breakers: your interests!
+How did 2025 go for you? What are your plans for 2026?
 
 ## Purpose Statement (~6:15pm)
 Goals of these events:
