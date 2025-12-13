@@ -1,4 +1,4 @@
-#### Current number RSVP'd for the 11/21 meetup:
+#### Current number RSVP'd for the 12/19 meetup:
 <div id="rsvp-count">
   <div class="loading-spinner"></div>
   <!-- <p></p> -->
@@ -22,7 +22,7 @@
 </style>
 
 <script>
-const API_URL = "https://script.google.com/macros/s/AKfycbyrvYw4Sdk-gxJjMkvdlxEaCGlSgE2t_VMGIl3x6tM4LIvz4dNp4UV6KDeO5xTTFe4u/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbxoxfbCd8WQZ8ogPFNGUrsdImCIc3kDuYR3k9vTrjGE-N8353g-xG58HELcN7dolz60/exec";
 
 fetch(API_URL)
   .then(response => response.json())
@@ -44,20 +44,21 @@ Want to see this number go up? Fill out the RSVP at the bottom of this page!
 ### Ready to meet and talk with other tech folks?
 
 We have been hosting a tech-focused meetup in Starkville! 💻️  
-The first three were on:
+The first were on:
 - [6/20/2025](archive/first_meetup.md),
 - [7/18/2025](archive/2025-07-18_meetup.md),
 - [8/22/2025](archive/2025-08-22_meetup.md),
-- [9/19/2025](archive/2025-09-19_meetup.md), and
-- [10/17/2025](archive/2025-10-17_meetup.md).
+- [9/19/2025](archive/2025-09-19_meetup.md),
+- [10/17/2025](archive/2025-10-17_meetup.md), and
+- [11/21/2025](archive/2025-11-21_meetup.md).
 
 Please see the RSVP form at the bottom of this page if you are interested in coming to this event or just interested in general!
 
 ### Time and Place
-The current plan for the November meeting is to start around **6pm Friday the 21st**.  
+The current plan for the November meeting is to start around **6pm Friday the 19th**.  
 
 <link rel="stylesheet" href="styles/buttons.css">
-<a href="https://calendar.online/event/page/0863cebd78ea8fddaaf11842bd18b832767322dc54a0916230" target="_blank">
+<a href="https://calendar.online/event/page/b11e4efc4bb8916e875b4fc40e00172eaf887ef460de19035d" target="_blank">
 <button id="myButton">Add event to your device</button>
 </a>
 
@@ -66,12 +67,7 @@ Note that parking is in the back of the building (2nd floor), but the doors are 
 
 ### Presentations
 
-Last time, we were able to line up two presentations.
-This time, I think we can do the same!  
-Remember, they are pretty brief; you may think 10 minutes is a lot of time, but when you're talking about something you care about, it can be gone in an instant...
-
-If you are interested in presenting on something, [let me know](contact.md)!
-
+For this meetup, we will not have any scheduled presentations. We will focus on the networking and socialization aspects of the meetup.
 
 ### Further Reading
 
@@ -107,4 +103,4 @@ You can also see the slides for other past presentations [here](presentations.md
 </a>
 
 ### RSVP Form
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf5uCwKnYGfWRWRgsYz7kMsH3o6RvY0NQWiSTJWQan5RlamLw/viewform?embedded=true" width="640" height="995" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfb7b7iBiHMgjTlTHbtulJbf2WocJwqhthja8CzoZPcwB9T6A/viewform?embedded=true" width="640" height="993" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
