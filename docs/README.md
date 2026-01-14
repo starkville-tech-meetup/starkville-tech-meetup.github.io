@@ -1,4 +1,4 @@
-#### Current number RSVP'd for the 12/19 meetup:
+#### Current number RSVP'd for the 1/16 meetup:
 <div id="rsvp-count">
   <div class="loading-spinner"></div>
   <!-- <p></p> -->
@@ -22,7 +22,7 @@
 </style>
 
 <script>
-const API_URL = "https://script.google.com/macros/s/AKfycbxoxfbCd8WQZ8ogPFNGUrsdImCIc3kDuYR3k9vTrjGE-N8353g-xG58HELcN7dolz60/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbxFlnUX2SLfvoJvc6B5pL80tkZ5xUzj9TZDsVcP4dLtB05Vg7_G3M70wSVWNpBPzkil/exec";
 
 fetch(API_URL)
   .then(response => response.json())
@@ -41,17 +41,17 @@ fetch(API_URL)
 Want to see this number go up? Fill out the RSVP at the bottom of this page!
 
 
-### Let's close out 2025 with some connecting!
+### New Year, New Connections!
 
-I want to invite you to the final Tech Connect GTR meetup of 2025!  I'm hoping we can discuss how the year went for us and how we can create more opportunities for connection and growth in 2026!
+I want to invite you to the first Tech Connect GTR meetup of 2026! 
 
 Please see the RSVP form at the bottom of this page if you are interested in coming to this event or just interested in general!
 
 ### Time and Place
-The current plan for the November meeting is to start around **6pm Friday the 19th**.  
+The current plan for the November meeting is to start around **6pm Friday the 16th**.  
 
 <link rel="stylesheet" href="styles/buttons.css">
-<a href="https://calendar.online/event/page/b11e4efc4bb8916e875b4fc40e00172eaf887ef460de19035d" target="_blank">
+<a href="https://calendar.online/event/page/b006a1582b5ef01b5ef99040052cda7729334dba77ce06d1e5" target="_blank">
 <button id="myButton">Add event to your device</button>
 </a>
 
@@ -96,4 +96,4 @@ You can also see the slides for other past presentations [here](presentations.md
 </a>
 
 ### RSVP Form
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfb7b7iBiHMgjTlTHbtulJbf2WocJwqhthja8CzoZPcwB9T6A/viewform?embedded=true" width="640" height="993" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfB4C1INQ2frzbRDKqIzHFAvNCLaW_P-vdcy7iWJFtOZbS_qA/viewform?embedded=true" width="640" height="992" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
