@@ -48,7 +48,7 @@ I want to invite you to the first Tech Connect GTR meetup of 2026!
 Please see the RSVP form at the bottom of this page if you are interested in coming to this event or just interested in general!
 
 ### Time and Place
-The current plan for the November meeting is to start around **6pm Friday the 16th**.  
+The current plan for the January meeting is to start around **6pm Friday the 16th**.  
 
 <link rel="stylesheet" href="styles/buttons.css">
 <a href="https://calendar.online/event/page/b006a1582b5ef01b5ef99040052cda7729334dba77ce06d1e5" target="_blank">
