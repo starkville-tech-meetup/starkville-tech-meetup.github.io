@@ -80,19 +80,19 @@ You can also see the slides for other past presentations [here](presentations.md
 #discord-button {
         padding: 5px;
         background-color: #bfcde0;
-  border: 2px solid #5865f2;
-  border-radius: 5px;
+  border: 4px solid #5865f2;
+  border-radius: 10px;
 }
 #discord-button:hover {
   transition-duration: 0.4s;
-  background-color:rgb(130, 169, 223);
+  background-color:rgb(15, 26, 41);
   /* color: #brown; */
 }
 
 </style>
 
 <a href="https://discord.gg/mQwu7K9dnG">
-<img id="discord-button" src="images/Discord-Logo-Blurple.svg" width="100"> </img>
+<img id="discord-button" src="images/Discord-Logo-Blurple.svg" width="200"> </img>
 </a>
 
 ### RSVP Form
