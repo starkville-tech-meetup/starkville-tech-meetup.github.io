@@ -58,10 +58,6 @@ Date and Time: **6pm Friday the 20th**
 The meetups take place at [the Hub](https://coworkmsu.com/) ([301 E Main St., Starkville, MS](https://www.google.com/maps/place/The+Hub/@33.4640187,-88.8137437,19.83z/data=!4m6!3m5!1s0x88813510f01510dd:0x454a02eaf7bde9c7!8m2!3d33.4643121!4d-88.8137627!16s%2Fg%2F11y4364z1j?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D)).  
 Note that parking is in the back of the building (2nd floor), but the doors are locked after hours. We hope to have a door greeter at the second floor entrance from ~6:00-6:10pm, but you will need to come around the building to the first floor if you arrive after that point.
 
-### Presentations
-
-For this meetup, we will not have any scheduled presentations. We will focus on the networking and socialization aspects of the meetup.
-
 ### Further Reading
 
 See this [provided agenda](agenda_next.md) for the upcoming meeting.
