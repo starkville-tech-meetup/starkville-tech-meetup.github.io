@@ -1,4 +1,4 @@
-#### Current number RSVP'd for the 1/16 meetup:
+#### Current number RSVP'd for the 2/20 meetup:
 <div id="rsvp-count">
   <div class="loading-spinner"></div>
   <!-- <p></p> -->
@@ -22,7 +22,7 @@
 </style>
 
 <script>
-const API_URL = "https://script.google.com/macros/s/AKfycbxFlnUX2SLfvoJvc6B5pL80tkZ5xUzj9TZDsVcP4dLtB05Vg7_G3M70wSVWNpBPzkil/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbxjGSpimaBEh0Q7D6oWN__9pZW91fRO1mq_QtGBmrq8SzakcuLa4VrLD7trPpwsW0mAxg/exec";
 
 fetch(API_URL)
   .then(response => response.json())
@@ -43,15 +43,15 @@ Want to see this number go up? Fill out the RSVP at the bottom of this page!
 
 ### New Year, New Connections!
 
-I want to invite you to the first Tech Connect GTR meetup of 2026! 
+I want to invite you to the February 2026 Tech Connect GTR meetup! 
 
 Please see the RSVP form at the bottom of this page if you are interested in coming to this event or just interested in general!
 
 ### Time and Place
-The current plan for the January meeting is to start around **6pm Friday the 16th**.  
+Date and Time: **6pm Friday the 20th**
 
 <link rel="stylesheet" href="styles/buttons.css">
-<a href="https://calendar.online/event/page/b006a1582b5ef01b5ef99040052cda7729334dba77ce06d1e5" target="_blank">
+<a href="https://calendar.online/event/page/4f5dc944513fe7cd9e1c3c39501c3d82809aad603426fe05b2" target="_blank">
 <button id="myButton">Add event to your device</button>
 </a>
 
@@ -96,4 +96,4 @@ You can also see the slides for other past presentations [here](presentations.md
 </a>
 
 ### RSVP Form
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfB4C1INQ2frzbRDKqIzHFAvNCLaW_P-vdcy7iWJFtOZbS_qA/viewform?embedded=true" width="640" height="992" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfjqyru-XHcTXTe_kT9P002Oiboy69egAtsYblh8u4aIPMiLA/viewform?embedded=true" width="640" height="990" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
