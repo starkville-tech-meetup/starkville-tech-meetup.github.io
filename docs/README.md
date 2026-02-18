@@ -41,7 +41,7 @@ fetch(API_URL)
 Want to see this number go up? Fill out the RSVP at the bottom of this page!
 
 
-### New Year, New Connections!
+### February: Month of ~~Love~~ Connections!
 
 I want to invite you to the February 2026 Tech Connect GTR meetup! 
 
