@@ -1,7 +1,8 @@
-#### Current number RSVP'd for the 2/20 meetup:
+<!-- 
+#### Current number RSVP'd for the March meetup:
 <div id="rsvp-count">
   <div class="loading-spinner"></div>
-  <!-- <p></p> -->
+  <!-- <p></p> - ->
 </div>
 
 <style>
@@ -38,22 +39,29 @@ fetch(API_URL)
   });
 </script> 
   
-Want to see this number go up? Fill out the RSVP at the bottom of this page!
+Want to see this number go up? Fill out the RSVP at the bottom of this page! 
+-->
 
 
-### February: Month of ~~Love~~ Connections!
+### March: Spring Up New Cconnections!
 
-I want to invite you to the February 2026 Tech Connect GTR meetup! 
+I want to invite you to the March 2026 Tech Connect GTR meetup! 
 
-Please see the RSVP form at the bottom of this page if you are interested in coming to this event or just interested in general!
+An RSVP form will be shown later once a date/time is decided.
+<!-- Please see the RSVP form at the bottom of this page if you are interested in coming to this event or just interested in general! -->
 
 ### Time and Place
-Date and Time: **6pm Friday the 20th**
 
+We're still deciding the best date/time for everyone that wants to come, so please respond to [this scheduling form](https://www.wheneverworks.com/event/e3112201-d41a-4a28-8f31-e00b7db10545) by 3/14 to make your opinion known!  
+(Note: you don't have to give your real name on this form!)
+
+
+Date and Time: **TBD**
+<!-- 
 <link rel="stylesheet" href="styles/buttons.css">
 <a href="https://calendar.online/event/page/4f5dc944513fe7cd9e1c3c39501c3d82809aad603426fe05b2" target="_blank">
 <button id="myButton">Add event to your device</button>
-</a>
+</a> -->
 
 The meetups take place at [the Hub](https://coworkmsu.com/) ([301 E Main St., Starkville, MS](https://www.google.com/maps/place/The+Hub/@33.4640187,-88.8137437,19.83z/data=!4m6!3m5!1s0x88813510f01510dd:0x454a02eaf7bde9c7!8m2!3d33.4643121!4d-88.8137627!16s%2Fg%2F11y4364z1j?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D)).  
 Note that parking is in the back of the building (2nd floor), but the doors are locked after hours. We hope to have a door greeter at the second floor entrance from ~6:00-6:10pm, but you will need to come around the building to the first floor if you arrive after that point.
@@ -91,5 +99,7 @@ You can also see the slides for other past presentations [here](presentations.md
 <img id="discord-button" src="images/Discord-Logo-Blurple.svg" width="200"> </img>
 </a>
 
+<!-- 
 ### RSVP Form
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfjqyru-XHcTXTe_kT9P002Oiboy69egAtsYblh8u4aIPMiLA/viewform?embedded=true" width="640" height="990" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfjqyru-XHcTXTe_kT9P002Oiboy69egAtsYblh8u4aIPMiLA/viewform?embedded=true" width="640" height="990" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> 
+-->
