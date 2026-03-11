@@ -43,7 +43,7 @@ Want to see this number go up? Fill out the RSVP at the bottom of this page!
 -->
 
 
-### March: Spring Up New Cconnections!
+### March: Spring Up New Connections!
 
 I want to invite you to the March 2026 Tech Connect GTR meetup! 
 
