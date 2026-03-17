@@ -52,11 +52,7 @@ Please see the RSVP form at the bottom of this page if you are interested in com
 
 ### Time and Place
 
-We're still deciding the best date/time for everyone that wants to come, so please respond to [this scheduling form](https://www.wheneverworks.com/event/e3112201-d41a-4a28-8f31-e00b7db10545) by 3/14 to make your opinion known!  
-(Note: you don't have to give your real name on this form!)
-
-
-Date and Time: **TBD**
+Date and Time: **3/23 at 6:30pm**
 
 <link rel="stylesheet" href="styles/buttons.css">
 <a href="https://calendar.online/event/page/b24ae58dcd8e39288e3b20e5cdcb605d4f1066166974f693ef" target="_blank">
