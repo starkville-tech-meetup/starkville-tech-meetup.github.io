@@ -99,5 +99,32 @@ You can also see the slides for other past presentations [here](presentations.md
 <img id="discord-button" src="images/Discord-Logo-Blurple.svg" width="200"> </img>
 </a>
 
+<br>
+
+<style>
+#facebook-button {
+  padding: 5px;
+  background-color: #c8d8f8;
+  border: 4px solid #0062fc;
+  border-radius: 10px;
+}
+
+#facebook-button:hover {
+  transition-duration: 0.4s;
+  background-color: #0a1a3a;
+}
+</style>
+
+
+<a href="https://www.facebook.com/groups/techconnect.gtr.ms">
+  <img
+    id="facebook-button"
+    src="images/Facebook_logo_(2023).svg"
+    width="200"
+  />
+</a>
+
+
+
 ### RSVP Form
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScZaHDaMQzDzi5rIiN3-AYLRpV-uMJ4kVMz0EzkavppEhVE4g/viewform?embedded=true" width="640" height="992" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
