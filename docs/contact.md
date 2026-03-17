@@ -17,7 +17,7 @@
 
 To get in contact, you can either:  
 - email me directly at [techconnect.gtr.ms@gmail.com](mailto:techconnect.gtr.ms@gmail.com) or
-- talk to a bunch of us on 
+- talk to a bunch of us on Discord: 
 <a href="https://discord.gg/mQwu7K9dnG">
 <img id="discord-button" src="images/Discord-Logo-Blurple.svg" width="100"> </img>
 </a>
