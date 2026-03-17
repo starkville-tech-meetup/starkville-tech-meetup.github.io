@@ -75,7 +75,7 @@ on the same topic.
 
 You can also see the slides for other past presentations [here](presentations.md).
 
-### Social Media
+## Social Media
 <style>
 #discord-button {
         padding: 5px;
@@ -122,5 +122,5 @@ You can also see the slides for other past presentations [here](presentations.md
 
 
 
-### RSVP Form
+## RSVP Form
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScZaHDaMQzDzi5rIiN3-AYLRpV-uMJ4kVMz0EzkavppEhVE4g/viewform?embedded=true" width="640" height="992" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
