@@ -8,9 +8,7 @@
 
 * [Agenda](agenda_next.md)
 
-* Flyers (to share)
-    * <a href="images/flyer/Tech Connect - Red Orange and Yellow Modern Flyer (v3).pdf" target="_blank">PDF</a>
-    * <a href="images/flyer/Tech Connect - Modern Flyer (v3).pdf" target="_blank">SVG</a>
+* <a href="images/flyer/Tech Connect - Red Orange and Yellow Modern Flyer (2026-03).pdf" target="_blank">Flyer (to share)</a>
 
 * Extras
     * [The Instructions](instructions.md)
