@@ -37,14 +37,13 @@ Invitation to listen to lightning talks or continue talking.
 1st Presentation - ~10min + 5min Q&A
 
 
-## Discussions of the future (~7:40pm)
-- What should this meeting look like moving forward?  
-- Do we want multiple types of events?  
-- What kind of cadence?  
-- What other questions/aspects are worth discussing?
-- Be part of the conversation!  
+## Next Meetup Timing (~7:40pm)
+- Does a Monday at 6:30 work? 
+- Another date?
+- Another time?
+- April 20th vs 27th?
 
 ## Continued networking
 
-## End (~9pm)
+## End (~8:30pm)
 Closing thoughts/discussion.
