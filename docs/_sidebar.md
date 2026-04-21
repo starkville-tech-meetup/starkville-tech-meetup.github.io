@@ -4,11 +4,11 @@
 <!-- * [projects](projects/README.md) -->
 * [GTR Tech Connect]()
 
-* [Contact Us](contact.md)
+* [📨 Contact Us](contact.md)
 
-* [Agenda](agenda_next.md)
+* [📝 Agenda](agenda_next.md)
 
-* <a href="images/flyer/Tech Connect - Red Orange and Yellow Modern Flyer (2026-03).pdf" target="_blank">Flyer (to share)</a>
+* <a href="images/flyer/Tech Connect - Red Orange and Yellow Modern Flyer (2026-03).pdf" target="_blank">📜 Flyer (to share)</a>
 
 * Extras
     * [The Instructions](instructions.md)
