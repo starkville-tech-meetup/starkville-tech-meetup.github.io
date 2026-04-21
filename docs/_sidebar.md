@@ -10,6 +10,8 @@
 
 * <a href="images/flyer/Tech Connect - Red Orange and Yellow Modern Flyer (2026-03).pdf" target="_blank">📜 Flyer (to share)</a>
 
+* [📐 Community Projects](projects/README.md)
+
 * Extras
     * [The Instructions](instructions.md)
     * [Useful resources](resources.md)
