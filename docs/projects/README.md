@@ -42,21 +42,20 @@ These are in a random order to avoid bias during reading and selection.
     }
 
 
-const indices = [...Array(sections.length).keys()];
-const shuffledIndices = fisherYatesShuffle([...indices]);
-shuffledSections = shuffledIndices.map(index => sections[index]);
-console.log(shuffledIndices);
-console.log(shuffledSections);
+  const indices = [...Array(sections.length).keys()];
+  const shuffledIndices = fisherYatesShuffle([...indices]);
+  shuffledSections = shuffledIndices.map(index => sections[index]);
+  // console.log(shuffledIndices);
+  // console.log(shuffledSections);
 
+  const container = document.getElementById("section-list");
 
-  document.getElementById("section-list").innerHTML = shuffledSections
-    .map(({ title, description }) => `
-      <div class="section-card">
-        <h3>${title}</h3>
-        <p>${description}</p>
-      </div>
-    `)
-    .join("");
+  container.innerHTML = shuffledSections.map(({ title, description, url }) => `
+    <div class="section-card">
+    <h4>${url ? `<a href="${url}" target="_blank" rel="noopener noreferrer">${title}</a>` : title}</h4>
+      <p>${description}</p>
+    </div>
+  `).join("");
 </script>
 
 
