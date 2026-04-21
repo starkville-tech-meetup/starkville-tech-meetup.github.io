@@ -19,17 +19,54 @@ These are in a random order to avoid bias during reading and selection.
 <script>
   const sections = [
     {
-      title: "Getting Started",
-      description: "Install the tool and run your first command in under five minutes."
+      title: "Start a Hack Club",
+      description: "This is a community thing for the people who are in high school in the area that are interested in computer science.",
+      url: "https://hackclub.com"
     },
     {
-      title: "Configuration",
-      description: "Customise behaviour via a single YAML file in your project root."
+      title: "Defcon Cell",
+      description: "Have not really looked into this one but it maybe a long term project would need to have a stated mission.",
+      url: "https://defcon.org/index.html"
     },
     {
-      title: "API Reference",
-      description: "Full list of endpoints, parameters, and response shapes."
-    }
+      title: "Meshtastic Network",
+      description: "This is one that could have an impact for the people in the community a lot more the idea is to have a connected network for the community incase there is a disaster. If there is a way to connect it to the existing telecom networks to provide cheaper internet it may be a cool idea but not feasible.",
+      url: "https://meshtastic.org/"
+    },
+    {
+      title: "Food Waste Compost",
+      description: "This is where we take all of the food waste that is inedible (not the left overs) and make compost for farmers."
+    }, 
+    {
+        title: "Re-Connect",
+        description: "This effort is through Starkville Strong and is about refurbishing donated computers (desktops and laptops) and getting them to local community members that need and can use them. While there are multiple facets to this effort, it relates to our group via the repair/refurbishing and computer training. However, the current bottleneck right now is actually identifying candidates for the computers.",
+        url: "https://drive.google.com/file/d/1uX-_8TS5X1OVsrvlEElx3sGwbjfV2tI4/view"
+    }, 
+    {
+      title: "Graph-based Knowledge Center for Community",
+      description: "This project would build a centralized site that community members could retrieve mostly static information, such as what organizations provide what kinds of community services, contact information of people that can get them help, and other potentially important knowledge.",
+      url: "http://github.com/oleeskild/obsidian-digital-garden"
+    },
+    {
+      title: "AI Literacy Classes",
+      description: 'Sometimes "AI-literacy" means "using AI to get things done", but here it is meant more as "being aware of how misinformation and scammers are being amplified by using AI". So, basically a media literacy course but with the knowledge that AI-based tooling exists. If we found a good curriculumn, we could host useful classes/workshops at various places in town/the community.',
+      url: "https://www.gse.harvard.edu/ideas/education-now/24/04/media-literacy-education-and-ai"
+    },
+    {
+      title: "Community Cloud",
+      description: 'A set of shared computer infrastructure and hosted services to provide value to the community. There are a lot of potential questions, mainly to do with what would be hosted, who would own what, who would be responsible for upkeep, etc.  After some preliminary research, I realize my vision is different from what a lot of the tech space calls "community cloud", so I\'m not exactly sure how to describe it...',
+      url: "https://en.wikipedia.org/wiki/Community_cloud"
+    },
+    {
+      title: "Technology and Communication Group for Better Together",
+      description: 'The link is to the Starkville Strong Facebook Page, but "Better Together" is it\'s own thing: an organization of other local organizations all working towards bettering the community in some way. They have been formalizing over the last several months, and soon they will be forming teams to tackle certain problems. One of these teams is the "Technology and Communication Group", which I felt our group is uniquely suited to help out in!',
+      url: "https://www.facebook.com/starkvillestrong"
+    },
+    // {
+    //   title: "Food Logistics for Unlimited Community Agricultural Cooperative (UCAC)",
+    //   description: "Placeholder text"
+    //   url: "https://www.theucac.com/about" 
+    // }
   ];
 
 
