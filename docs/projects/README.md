@@ -1,6 +1,6 @@
 # Community Projects
 
-### Background and Selection
+## Background and Selection
 
 As a group, some of us believe that our group has the potential to do some real good for our community.
 As a first pass at putting some effort into that, I asked the group for their ideas of potential projects to put our efforts to. 
@@ -10,7 +10,7 @@ The pitches were all pretty short (aside from some discussion), but they are all
 My hope is to select 2-3 projects that people are most interested in using Ranked-Choice Voting (RCV)[^1], and then set up some 
 project management tool[^2] to help us organize work around those efforts. 
 
-### Project Proposals
+## Project Proposals
 These are in a random order to avoid bias during reading and selection.
 
 
