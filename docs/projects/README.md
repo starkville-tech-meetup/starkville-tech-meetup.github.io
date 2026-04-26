@@ -10,8 +10,14 @@ The pitches were all pretty short (aside from some discussion), but they are all
 My hope is to select 2-3 projects that people are most interested in using Ranked-Choice Voting (RCV)[^1], and then set up some 
 project management tool[^2] to help us organize work around those efforts. 
 
+Please note that your selection of these is not a commitment in any sense.
+This is solely just to gauge where interests and skills are at so our collective
+force can focus and do the most good.
+
 ## Project Proposals
 These are in a random order to avoid bias during reading and selection.
+When voting (look out for that e-mail), please pay attention specifically to the project names!
+They will be randomized there, as well.
 
 
 <div id="section-list"></div>
