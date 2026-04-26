@@ -68,11 +68,11 @@ They will be randomized there, as well.
       description: 'The link is to the Starkville Strong Facebook Page, but "Better Together" is it\'s own thing: an organization of other local organizations all working towards bettering the community in some way. They have been formalizing over the last several months, and soon they will be forming teams to tackle certain problems. One of these teams is the "Technology and Communication Group", which I felt our group is uniquely suited to help out in!',
       url: "https://www.facebook.com/starkvillestrong"
     },
-    // {
-    //   title: "Food Logistics for Unlimited Community Agricultural Cooperative (UCAC)",
-    //   description: "Placeholder text"
-    //   url: "https://www.theucac.com/about" 
-    // }
+    {
+      title: "The Community Bridge Project Plan - Unlimited Community Agricultural Cooperative (UCAC)",
+      description: "See the link for a full page description!",
+      url: "/projects/ucac-gtr-project-plan.html" 
+    }
   ];
 
 
