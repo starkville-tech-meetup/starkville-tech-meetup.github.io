@@ -70,7 +70,7 @@ They will be randomized there, as well.
     },
     {
       title: "The Community Bridge Project Plan - Unlimited Community Agricultural Cooperative (UCAC)",
-      description: "See the link for a full page description!",
+      description: "See the link for a full page description, plan, and roadmap!",
       url: "/projects/ucac-gtr-project-plan.html" 
     }
   ];
