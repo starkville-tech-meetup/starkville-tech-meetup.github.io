@@ -100,7 +100,29 @@ They will be randomized there, as well.
     </div>
   `).join("");
 </script>
-
+<style>
+    #section-list {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+    /* #section-list {
+      background: var(--rosewater);
+      border-radius: 5px;
+      padding: 1.1rem 0.1rem;
+      // border-left: 3px solid var(--rosewater);
+      box-shadow: 0 2px 8px rgba(44,26,14,0.06);
+    }   */
+    
+    .section-card {
+      background: var(--crust);
+      border-radius: 5px;
+      padding: 0.5rem 1.25rem;
+      border-left: 3px solid var(--rosewater);
+      box-shadow: 0 2px 8px rgba(44,26,14,0.06);
+    }
+</style>
 
 
 [^1]: See [here](https://www.rcvresources.org/how-rcv-works) for more info on RCV.
