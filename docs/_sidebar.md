@@ -1,7 +1,5 @@
 <!-- * [Copper Key Software Connections](/) -->
 
-<!-- * [Blogs](blogs/README.md) -->
-<!-- * [projects](projects/README.md) -->
 * [GTR Tech Connect]()
 
 * [📨 Contact Us](contact.md)
