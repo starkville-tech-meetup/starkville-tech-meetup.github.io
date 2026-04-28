@@ -103,10 +103,20 @@ They will be randomized there, as well.
 <style>
     #section-list {
       display: grid;
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 1fr;
       gap: 1rem;
       margin-top: 1rem;
     }
+
+    @media (min-width: 1200px) {
+      #section-list {
+        grid-template-columns: 1fr 1fr;
+        gap: 1.5rem;
+        padding: 2rem;
+      }
+    }
+
+    
     /* #section-list {
       background: var(--rosewater);
       border-radius: 5px;
