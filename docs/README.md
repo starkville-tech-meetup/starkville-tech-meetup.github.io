@@ -1,5 +1,5 @@
 
-#### Current number RSVP'd for the April 14<sup>th</sup> meetup:
+#### Current number RSVP'd for the May 15<sup>th</sup> meetup:
 <div id="rsvp-count">
   <div class="loading-spinner"></div>
   <!-- <p></p> -->
@@ -23,9 +23,18 @@
 </style>
 
 <script>
-const API_URL = "https://script.google.com/macros/s/AKfycbxik8QurbPAjv4rDA2x0TDs1P2k3nc01HIRCKwE2LQBeuaEiF4iTb0VNCKErl9N-8bW/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbzQi4hIPcSYhAg3gS1ro9pLCb3XEZPIRPTme456au4JjkzHFFXFsENk1SBPXY86z-U4/exec";
 
-fetch(API_URL)
+fetch(API_URL, 
+  // {
+  //     redirect: "follow",
+  //     method: "POST",
+  //     // body: JSON.stringify(DATA),
+  //     headers: {
+  //       "Content-Type": "text/plain;charset=utf-8",
+  //     }
+  // }
+  )
   .then(response => response.json())
   .then(data => {
     console.log(`data = ${JSON.stringify(data)}`);
@@ -43,19 +52,25 @@ Want to see this number go up? Fill out the RSVP at the bottom of this page!
 
 
 
-## April: It's almost summer?!
+## "May"-king connections before the Starkville Summer Slump!
 
-I want to invite you to the April 2026 Tech Connect GTR meetup on Tuesday 4/14 at 6:30pm! 
+Personally, I typically am more likely to do things with people if I have scheduled them in advance. 
+So, if you feel similarly and want to hang out with people over the summer, make plans 
+
+
+I want to invite you to the May 2026 Tech Connect GTR meetup on Friday 5/15 at 6:30pm! 
 
 Please see the RSVP form at the bottom of this page if you are interested in coming to this event or just interested in general!
+
+Note that [MSU's 2026 Spring Commencements](https://www.registrar.msstate.edu/calendars/academic-calendar/2026/spring) will be held this day, but they should be long over before we start.
 
 
 ### Time and Place
 
-Date and Time: **4/14 at 6:30pm**
+Date and Time: **5/15 at 6:30pm**
 
 <link rel="stylesheet" href="styles/buttons.css">
-<a href="https://calendar.online/event/page/541dc2631f4d642c28a77994863fd9f9127eb5673bbabc956c" target="_blank">
+<a href="https://calendar.online/event/page/72770a0a98fd2e51e5719bc0b40997b3157895d07d7641ccab" target="_blank">
 <button id="myButton">Add event to your device</button>
 </a>
 
@@ -123,4 +138,4 @@ You can also see the slides for other past presentations [here](presentations.md
 
 
 ## RSVP Form
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCY1cn174jGw3w4H7Su-KvcCI7gxyr4L8Q-14lS2rETIue6A/viewform?embedded=true" width="640" height="992" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfuJq4Kg3P-EjWJdx8IU62IbaPHaKjTJz0R47hZ2NUA4Ih2Bg/viewform?embedded=true" width="640" height="993" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
