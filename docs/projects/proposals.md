@@ -1,5 +1,12 @@
 # Community Projects
 
+## Voting Link
+
+You can vote on these projects [here (RCV123.org)](https://www.rcv123.org/ballot/5CJVr8Hvr7M77MGfR8h9QF4c).  
+Note that you will have to provide a recognizable name or I will disregard your vote.  
+You can also email me or message me on Discord if you want to be sure.
+
+
 ## Background and Selection
 
 As a group, some of us believe that our group has the potential to do some real good for our community.
