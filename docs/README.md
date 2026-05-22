@@ -1,8 +1,10 @@
 
-#### Current number RSVP'd for the May 15<sup>th</sup> meetup:
+<!-- 
+UPDATE
+#### Current number RSVP'd for the June 15<sup>th</sup> meetup:
 <div id="rsvp-count">
   <div class="loading-spinner"></div>
-  <!-- <p></p> -->
+  <p></p>
 </div>
 
 <style>
@@ -49,30 +51,37 @@ fetch(API_URL,
 </script> 
   
 Want to see this number go up? Fill out the RSVP at the bottom of this page! 
+-->
+
+## Welcome to the Tech Connect GTR homepage!
+
+We are a group of local (GTR) techies, techos, and tech-interested people that meet once a month to discuss tech (amongst a variety of other topics).
+
+If that kind of event interests you, read on!
 
 
+## June: Beginning another the Summer of Connections
 
-## "May"-king connections before the Starkville Summer Slump!
+And so begins Summer in Starkville, a time of before the absolute swelter sets in.
 
-Personally, I typically am more likely to do things with people if I have scheduled them in advance. 
-So, if you feel similarly and want to hang out with people over the summer, make plans 
+I want to invite you to the June 2026 Tech Connect GTR meetup! 
 
+The date is still TBD, but you can vote on it in [this poll](https://datepoll.com/p/CfifD3mbyZ). 
+The last day to vote is May 31st (coinciding with the [community projects voting](projects/proposals.md), as well)
 
-I want to invite you to the May 2026 Tech Connect GTR meetup on Friday 5/15 at 6:30pm! 
-
-Please see the RSVP form at the bottom of this page if you are interested in coming to this event or just interested in general!
-
-Note that [MSU's 2026 Spring Commencements](https://www.registrar.msstate.edu/calendars/academic-calendar/2026/spring) will be held this day, but they should be long over before we start.
+The RSVP form will be added to the bottom of this page when we have a date decided.
 
 
 ### Time and Place
 
-Date and Time: **5/15 at 6:30pm**
+Date and Time: **TBD**
 
+<!-- 
+UPDATE
 <link rel="stylesheet" href="styles/buttons.css">
 <a href="https://calendar.online/event/page/72770a0a98fd2e51e5719bc0b40997b3157895d07d7641ccab" target="_blank">
 <button id="myButton">Add event to your device</button>
-</a>
+</a> -->
 
 The meetups take place at [the Hub](https://coworkmsu.com/) ([301 E Main St., Starkville, MS](https://www.google.com/maps/place/The+Hub/@33.4640187,-88.8137437,19.83z/data=!4m6!3m5!1s0x88813510f01510dd:0x454a02eaf7bde9c7!8m2!3d33.4643121!4d-88.8137627!16s%2Fg%2F11y4364z1j?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D)).  
 Note that parking is in the back of the building (2nd floor), but the doors are locked after hours. We hope to have a door greeter at the second floor entrance from ~6:30-6:45pm, but you will need to come around the building to the first floor if you arrive after that point.
@@ -137,5 +146,7 @@ You can also see the slides for other past presentations [here](presentations.md
 
 
 
-## RSVP Form
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfuJq4Kg3P-EjWJdx8IU62IbaPHaKjTJz0R47hZ2NUA4Ih2Bg/viewform?embedded=true" width="640" height="993" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<!--
+UPDATE
+ ## RSVP Form
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfuJq4Kg3P-EjWJdx8IU62IbaPHaKjTJz0R47hZ2NUA4Ih2Bg/viewform?embedded=true" width="640" height="993" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
