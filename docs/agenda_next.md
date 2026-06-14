@@ -1,4 +1,4 @@
-# 2026-03-23 Agenda
+# 2026-06-19 Agenda
 
 ## Meet and Greet (~6:30pm)
 How has the year been going for you?

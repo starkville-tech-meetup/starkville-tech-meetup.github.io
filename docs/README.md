@@ -1,6 +1,4 @@
 
-<!-- 
-UPDATE
 #### Current number RSVP'd for the June 15<sup>th</sup> meetup:
 <div id="rsvp-count">
   <div class="loading-spinner"></div>
@@ -25,7 +23,7 @@ UPDATE
 </style>
 
 <script>
-const API_URL = "https://script.google.com/macros/s/AKfycbzQi4hIPcSYhAg3gS1ro9pLCb3XEZPIRPTme456au4JjkzHFFXFsENk1SBPXY86z-U4/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbz5AdnkTJ9x_r1--INAButZC9LpsM1cCOztZaYZPxASKEbo7MTIcbqxSbz_QYBv0xRP9w/exec";
 
 fetch(API_URL, 
   // {
@@ -51,7 +49,6 @@ fetch(API_URL,
 </script> 
   
 Want to see this number go up? Fill out the RSVP at the bottom of this page! 
--->
 
 ## Welcome to the Tech Connect GTR homepage!
 
@@ -66,22 +63,15 @@ And so begins Summer in Starkville, a time of before the absolute swelter sets i
 
 I want to invite you to the June 2026 Tech Connect GTR meetup! 
 
-The date is still TBD, but you can vote on it in [this poll](https://datepoll.com/p/CfifD3mbyZ). 
-The last day to vote is May 31st (coinciding with the [community projects voting](projects/proposals.md), as well)
-
-The RSVP form will be added to the bottom of this page when we have a date decided.
-
 
 ### Time and Place
 
-Date and Time: **TBD**
+Date and Time: **6/19 @ 6:30pm**
 
-<!-- 
-UPDATE
 <link rel="stylesheet" href="styles/buttons.css">
-<a href="https://calendar.online/event/page/72770a0a98fd2e51e5719bc0b40997b3157895d07d7641ccab" target="_blank">
+<a href="https://calendar.online/event/page/e19a17daaf5f88b31d60d80c19482583df532a4322e97e8b10" target="_blank">
 <button id="myButton">Add event to your device</button>
-</a> -->
+</a>
 
 The meetups take place at [the Hub](https://coworkmsu.com/) ([301 E Main St., Starkville, MS](https://www.google.com/maps/place/The+Hub/@33.4640187,-88.8137437,19.83z/data=!4m6!3m5!1s0x88813510f01510dd:0x454a02eaf7bde9c7!8m2!3d33.4643121!4d-88.8137627!16s%2Fg%2F11y4364z1j?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D)).  
 Note that parking is in the back of the building (2nd floor), but the doors are locked after hours. We hope to have a door greeter at the second floor entrance from ~6:30-6:45pm, but you will need to come around the building to the first floor if you arrive after that point.
@@ -146,7 +136,5 @@ You can also see the slides for other past presentations [here](presentations.md
 
 
 
-<!--
-UPDATE
  ## RSVP Form
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfuJq4Kg3P-EjWJdx8IU62IbaPHaKjTJz0R47hZ2NUA4Ih2Bg/viewform?embedded=true" width="640" height="993" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJh74WugjRlaJ8BSWho33T1i8M-VF8iqN9JjYoK_WclGBVHQ/viewform?embedded=true" width="640" height="990" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
