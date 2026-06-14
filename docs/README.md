@@ -1,5 +1,5 @@
 
-#### Current number RSVP'd for the June 15<sup>th</sup> meetup:
+#### Current number RSVP'd for the June 19<sup>th</sup> meetup:
 <div id="rsvp-count">
   <div class="loading-spinner"></div>
   <p></p>
