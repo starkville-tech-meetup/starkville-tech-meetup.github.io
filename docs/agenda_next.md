@@ -1,4 +1,4 @@
-# 2026-06-19 Agenda
+# 2026-07-24 Agenda
 
 ## Meet and Greet (~6:30pm)
 How has the year been going for you?
@@ -15,8 +15,7 @@ Goals of these events:
 Future Goals - Same as above, but also:
 - Job-seeking networking
 - Student introduction to industry
-- Product discovery
-- Potential career-fair-like option?
+- Discussion of community news
 
 ## 'Round-the-Room Intros (~6:55pm)
 Give a short (<1m) introduction
@@ -31,17 +30,17 @@ Just whatever you are comfortable sharing and/or want to connect with others ove
 >❗️ **You can also “pass” on this part; completely understand!**
 
 
-Invitation to listen to lightning talks or continue talking.
+## Dalton's Pet Projects (~7:20pm)
+> Still relevant to you!
 
-## Lightning talks (~7:20pm) (optional)
-1st Presentation - ~10min + 5min Q&A
+- Starkville Cryptocurrency Mining Proposed Project
+- Get Out The Vote (GOTV) Efforts
 
 
 ## Next Meetup Timing (~7:40pm)
-- Does a Monday at 6:30 work? 
-- Another date?
-- Another time?
-- April 20th vs 27th?
+- Does using WheneverWorks work?
+- Time of day? New or different?
+
 
 ## Continued networking
 
