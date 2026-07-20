@@ -1,5 +1,5 @@
 
-#### Current number RSVP'd for the June 19<sup>th</sup> meetup:
+#### Current number RSVP'd for the July 24<sup>th</sup> meetup:
 <div id="rsvp-count">
   <div class="loading-spinner"></div>
   <p></p>
@@ -23,7 +23,7 @@
 </style>
 
 <script>
-const API_URL = "https://script.google.com/macros/s/AKfycbz5AdnkTJ9x_r1--INAButZC9LpsM1cCOztZaYZPxASKEbo7MTIcbqxSbz_QYBv0xRP9w/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbz_GabdmBK7ilACZ55zh0Mh4fSDKb22XZ-HI_80ixzCCqZqz71uV6RnLxfmwBfetCeI-A/exec";
 
 fetch(API_URL, 
   // {
@@ -57,19 +57,23 @@ We are a group of local (GTR) techies, techos, and tech-interested people that m
 If that kind of event interests you, read on!
 
 
-## June: Beginning another the Summer of Connections
+## July: Ending the summer "break"; Starting to heat up
 
-And so begins Summer in Starkville, a time of before the absolute swelter sets in.
+As school starts back remarkably soon (and already has for some of the local public schools), we once again trek to our Hub and discuss... whatever we want!
 
-I want to invite you to the June 2026 Tech Connect GTR meetup! 
+Sometimes, we talk about the weather, sometimes cars, sometimes AI, and sometimes public policy (though trying to stay local). 
+Ultimately, we speak from similar expertise perspectives, while still being able to learn from each other. 
+I find it quite nice.
+
+So, I'd like to invite you to the July 2026 Tech Connect GTR meetup! 
 
 
 ### Time and Place
 
-Date and Time: **6/19 @ 6:30pm**
+Date and Time: **7/24 @ 6:30pm**
 
 <link rel="stylesheet" href="styles/buttons.css">
-<a href="https://calendar.online/event/page/e19a17daaf5f88b31d60d80c19482583df532a4322e97e8b10" target="_blank">
+<a href="https://calendar.online/event/page/8af72a330aa69f6ac22277a819baeab585ef06f48aae3223be" target="_blank">
 <button id="myButton">Add event to your device</button>
 </a>
 
@@ -136,5 +140,5 @@ You can also see the slides for other past presentations [here](presentations.md
 
 
 
- ## RSVP Form
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJh74WugjRlaJ8BSWho33T1i8M-VF8iqN9JjYoK_WclGBVHQ/viewform?embedded=true" width="640" height="990" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+## RSVP Form
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdbp-8M47milRBIMR44EGNN6QGDuJL3haFLHU_3fpj11ALNFg/viewform?embedded=true" width="640" height="991" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
