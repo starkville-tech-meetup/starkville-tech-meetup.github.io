@@ -30,19 +30,20 @@ Just whatever you are comfortable sharing and/or want to connect with others ove
 >❗️ **You can also “pass” on this part; completely understand!**
 
 
-## Dalton's Pet Projects (~7:20pm)
+## Community Project Discussion (~7:15pm)
 > Still relevant to you!
 
 - Starkville Cryptocurrency Mining Proposed Project
 - Get Out The Vote (GOTV) Efforts
 
 
-## Next Meetup Timing (~7:40pm)
+## Next Meetup Timing (~7:35pm)
 - Does using WheneverWorks work?
 - Time of day? New or different?
 
 
-## Continued networking
+## Continued Networking/Talking/Discussion (~7:40pm)
+
 
 ## End (~8:30pm)
 Closing thoughts/discussion.

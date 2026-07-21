@@ -20,10 +20,12 @@ format:
 
 ## Agenda
 
-- Meet and Greet (~6pm)
-- Purpose Statement (~6:15pm)
-- Round-the-Room Intros (~6:20pm)
-- Continued networking
+- Meet and Greet (~6:30pm)
+- Purpose Statement (~6:50pm)
+- Round-the-Room Intros (~6:55pm)
+- Community Project Discussion (~7:15pm)
+- Next Meetup Timing (~7:35pm)
+- More Networking/Talking/Discussion (~7:40pm)
 - End (~8pm)
 
 ## Goals from the Audience {autoslide=25000}
