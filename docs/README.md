@@ -57,7 +57,7 @@ We are a group of local (GTR) techies, techos, and tech-interested people that m
 If that kind of event interests you, read on!
 
 
-## August: It's so hot, I appreciate even just "a gust" of wind!
+## August: It's so hot, I appreciate even just "a gust" of wind! 🥁🥁📀
 
 Lives go on. 
 Adults go to work. 
