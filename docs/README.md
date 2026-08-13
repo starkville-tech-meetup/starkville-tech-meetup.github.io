@@ -1,5 +1,5 @@
 
-#### Current number RSVP'd for the July 24<sup>th</sup> meetup:
+#### Current number RSVP'd for the August 14<sup>th</sup> meetup:
 <div id="rsvp-count">
   <div class="loading-spinner"></div>
   <p></p>
@@ -23,7 +23,7 @@
 </style>
 
 <script>
-const API_URL = "https://script.google.com/macros/s/AKfycbz_GabdmBK7ilACZ55zh0Mh4fSDKb22XZ-HI_80ixzCCqZqz71uV6RnLxfmwBfetCeI-A/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbwo9ONp-LDh8bd_abvgLYL6R6wvPBLaJOY-FyhrfKsGrF4mGWbRaeFRGEy5hFS_p2d_hg/exec";
 
 fetch(API_URL, 
   // {
@@ -57,41 +57,40 @@ We are a group of local (GTR) techies, techos, and tech-interested people that m
 If that kind of event interests you, read on!
 
 
-## July: Ending the summer "break"; Starting to heat up
+## August: It's so hot, I appreciate even just "a gust" of wind!
 
-As school starts back remarkably soon (and already has for some of the local public schools), we once again trek to our Hub and discuss... whatever we want!
+Lives go on. 
+Adults go to work. 
+Kids go to school. 
+Book worms go to the library[^1]. 
+Gym bros go to the... gym...  
+Where to tech-interested people go?   
+First, probably to their own jobs or school.  
+But then?  
+They can come to the Hub this Friday (8/14) and talk about tech (and other things)!
+
+[^1]: As should you and any children you have.
 
 Sometimes, we talk about the weather, sometimes cars, sometimes AI, and sometimes public policy (though trying to stay local). 
 Ultimately, we speak from similar expertise perspectives, while still being able to learn from each other. 
-I find it quite nice.
 
-So, I'd like to invite you to the July 2026 Tech Connect GTR meetup! 
+So, I'd like to invite you to the August 2026 Tech Connect GTR meetup! 
 
 
 ### Time and Place
 
-Date and Time: **7/24 @ 6:30pm**
+Date and Time: **8/14 @ 6:30pm**
 
-<link rel="stylesheet" href="styles/buttons.css">
+<!-- <link rel="stylesheet" href="styles/buttons.css">
 <a href="https://calendar.online/event/page/8af72a330aa69f6ac22277a819baeab585ef06f48aae3223be" target="_blank">
 <button id="myButton">Add event to your device</button>
-</a>
+</a> -->
 
 The meetups take place at [the Hub](https://coworkmsu.com/) ([301 E Main St., Starkville, MS](https://www.google.com/maps/place/The+Hub/@33.4640187,-88.8137437,19.83z/data=!4m6!3m5!1s0x88813510f01510dd:0x454a02eaf7bde9c7!8m2!3d33.4643121!4d-88.8137627!16s%2Fg%2F11y4364z1j?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D)).  
+<details>
+<summary>Parking details </summary>
 Note that parking is in the back of the building (2nd floor), but the doors are locked after hours. We hope to have a door greeter at the second floor entrance from ~6:30-6:45pm, but you will need to come around the building to the first floor if you arrive after that point.
-
-### Further Reading
-
-See this [provided agenda](agenda_next.md) for the upcoming meeting.
-
-For some tips on getting the most out of tech meetups, see the [resources page](resources.md).  
-TL;DR? Here's a 
-<a href="presentations\quarto\what-to-expect-at-a-tech-meetup\what-to-expect-at-a-tech-meetup.html" target="_blank">
-brief presentation
-</a> 
-on the same topic.
-
-You can also see the slides for other past presentations [here](presentations.md).
+</details>
 
 ## Social Media
 <style>
@@ -141,4 +140,4 @@ You can also see the slides for other past presentations [here](presentations.md
 
 
 ## RSVP Form
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdbp-8M47milRBIMR44EGNN6QGDuJL3haFLHU_3fpj11ALNFg/viewform?embedded=true" width="640" height="991" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe id="form" src="https://docs.google.com/forms/d/e/1FAIpQLScvCjUTIBIj0LcJYUOsWSqhBe4Ud6V88nOkSJSQL7RJf9n0zA/viewform?embedded=true" width="640" height="990" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
