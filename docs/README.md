@@ -1,5 +1,5 @@
 
-#### Current number RSVP'd for the August 14<sup>th</sup> meetup:
+#### Current number RSVP'd for the September 18<sup>th</sup> meetup:
 <div id="rsvp-count">
   <div class="loading-spinner"></div>
   <p></p>
@@ -23,7 +23,7 @@
 </style>
 
 <script>
-const API_URL = "https://script.google.com/macros/s/AKfycbwo9ONp-LDh8bd_abvgLYL6R6wvPBLaJOY-FyhrfKsGrF4mGWbRaeFRGEy5hFS_p2d_hg/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbw0EkPR6cNKpvgIhsN1GBImd4CYDZkhJqoQC8h5LBgNRcYJyZXCRYJIhQcV1Habxobu/exec";
 
 fetch(API_URL, 
   // {
@@ -57,29 +57,21 @@ We are a group of local (GTR) techies, techos, and tech-interested people that m
 If that kind of event interests you, read on!
 
 
-## August: It's so hot, I appreciate even just "a gust" of wind! 🥁🥁📀
+## September: [ Do you remember?](https://youtu.be/_zzEDrYTkkg)
 
-Lives go on. 
-Adults go to work. 
-Kids go to school. 
-Book worms go to the library[^1]. 
-Gym bros go to the... gym...  
-Where to tech-interested people go?   
-First, probably to their own jobs or school.  
-But then?  
-They can come to the Hub this Friday (8/14) and talk about tech (and other things)!
+Lots of stuff is happening, everywhere, all the time.  
+Want to talk about it?
 
-[^1]: As should you and any children you have.
 
 Sometimes, we talk about the weather, sometimes cars, sometimes AI, and sometimes public policy (though trying to stay local). 
 Ultimately, we speak from similar expertise perspectives, while still being able to learn from each other. 
 
-So, I'd like to invite you to the August 2026 Tech Connect GTR meetup! 
+You can join us at the September 2026 Tech Connect GTR meetup! 
 
 
 ### Time and Place
 
-Date and Time: **8/14 @ 6:30pm**
+Date and Time: **9/18 @ 6:30pm**
 
 <!-- <link rel="stylesheet" href="styles/buttons.css">
 <a href="https://calendar.online/event/page/8af72a330aa69f6ac22277a819baeab585ef06f48aae3223be" target="_blank">
@@ -91,6 +83,9 @@ The meetups take place at [the Hub](https://coworkmsu.com/) ([301 E Main St., St
 <summary>Parking details </summary>
 Note that parking is in the back of the building (2nd floor), but the doors are locked after hours. We hope to have a door greeter at the second floor entrance from ~6:30-6:45pm, but you will need to come around the building to the first floor if you arrive after that point.
 </details>
+
+> Be advised that construction is still going on at this location, so you may be forced to enter the rear parking lot from the rear/east entrance. 
+
 
 ## Social Media
 <style>
@@ -140,4 +135,4 @@ Note that parking is in the back of the building (2nd floor), but the doors are 
 
 
 ## RSVP Form
-<iframe id="form" src="https://docs.google.com/forms/d/e/1FAIpQLScvCjUTIBIj0LcJYUOsWSqhBe4Ud6V88nOkSJSQL7RJf9n0zA/viewform?embedded=true" width="640" height="990" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdfG3-Tj5zvUf28gyw25kZePy9fHzoZPjAZrgcg69epIeDQ_Q/viewform?embedded=true" width="640" height="995" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
