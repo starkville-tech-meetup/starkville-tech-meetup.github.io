@@ -66,7 +66,7 @@ Want to talk about it?
 Sometimes, we talk about the weather, sometimes cars, sometimes AI, and sometimes public policy (though trying to stay local). 
 Ultimately, we speak from similar expertise perspectives, while still being able to learn from each other. 
 
-You can join us at the September 2026 Tech Connect GTR meetup! 
+If interested, you can join us at the September 2026 Tech Connect GTR meetup! 
 
 
 ### Time and Place
