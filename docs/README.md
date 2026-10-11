@@ -7,6 +7,10 @@
 
 Want to see this number go up? Fill out the RSVP at the bottom of this page! 
 
+###### Potluck items:
+<div id="potluck-list"></div>
+
+
 <style>
 .loading-spinner {
   border: 4px solid #f3f3f3;
@@ -22,6 +26,15 @@ Want to see this number go up? Fill out the RSVP at the bottom of this page!
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
+
+.potluck-card {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 0.5rem 0.75rem;
+  margin-bottom: 0.75rem;
+  break-inside: avoid; /* keeps a card from splitting across columns */
+}
+
 </style>
 
 <script>
@@ -42,6 +55,28 @@ fetch(API_URL,
     console.log(`data = ${JSON.stringify(data)}`);
     const countDiv = document.querySelector("#rsvp-count");
     countDiv.innerHTML = `<p style="font-size: 50px; text-align:center; margin: 0;">${data["count"]}</p>`;
+
+    const potluck_items = data["potluck"].split(",").map(s => s.trim()).filter(Boolean);
+
+    const potluck_container = document.getElementById("potluck-list");
+    const MIN_COL_WIDTH = 160; // px, the narrowest a column is allowed to get
+
+    function render() {
+      const cols = Math.max(1, Math.floor(potluck_container.clientWidth / MIN_COL_WIDTH));
+      potluck_container.style.columnCount = cols;
+      potluck_container.style.columnGap = "1.5rem";
+    }
+
+    potluck_items.forEach(i => {
+      const card = document.createElement("div");
+      card.className = "potluck-card";
+      card.textContent = i;
+      potluck_container.appendChild(card);
+    });
+
+    render();
+    new ResizeObserver(render).observe(potluck_container);
+
   })
   .catch(err => {
     console.error("Error fetching sheet data:", err);
