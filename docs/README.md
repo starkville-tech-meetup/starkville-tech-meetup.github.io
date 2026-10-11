@@ -5,6 +5,8 @@
   <p></p>
 </div>
 
+Want to see this number go up? Fill out the RSVP at the bottom of this page! 
+
 <style>
 .loading-spinner {
   border: 4px solid #f3f3f3;
@@ -23,7 +25,7 @@
 </style>
 
 <script>
-const API_URL = "https://script.google.com/macros/s/AKfycbw0EkPR6cNKpvgIhsN1GBImd4CYDZkhJqoQC8h5LBgNRcYJyZXCRYJIhQcV1Habxobu/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbyOTrfxxIxZyQoLz7nOQU7I7ZldyMysJuy0h83bt8ZLvu8kCj7c0mz97lJV0yy94Mvp/exec";
 
 fetch(API_URL, 
   // {
@@ -48,7 +50,6 @@ fetch(API_URL,
   });
 </script> 
   
-Want to see this number go up? Fill out the RSVP at the bottom of this page! 
 
 ## Welcome to the Tech Connect GTR homepage!
 
