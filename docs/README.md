@@ -1,5 +1,5 @@
 
-#### Current number RSVP'd for the September 18<sup>th</sup> meetup:
+#### Current number RSVP'd for the October 16<sup>th</sup> meetup:
 <div id="rsvp-count">
   <div class="loading-spinner"></div>
   <p></p>
@@ -93,21 +93,20 @@ We are a group of local (GTR) techies, techos, and tech-interested people that m
 If that kind of event interests you, read on!
 
 
-## September: [ Do you remember?](https://youtu.be/_zzEDrYTkkg)
+## October: Spooky Season 👻🎃
 
 Lots of stuff is happening, everywhere, all the time.  
 Want to talk about it?
 
-
 Sometimes, we talk about the weather, sometimes cars, sometimes AI, and sometimes public policy (though trying to stay local). 
 Ultimately, we speak from similar expertise perspectives, while still being able to learn from each other. 
 
-If interested, you can join us at the September 2026 Tech Connect GTR meetup! 
+If interested, you can join us at the October 2026 Tech Connect GTR meetup! 
 
 
 ### Time and Place
 
-Date and Time: **9/18 @ 6:30pm**
+Date and Time: **10/16 @ 6:30pm**
 
 <!-- <link rel="stylesheet" href="styles/buttons.css">
 <a href="https://calendar.online/event/page/8af72a330aa69f6ac22277a819baeab585ef06f48aae3223be" target="_blank">
@@ -120,7 +119,7 @@ The meetups take place at [the Hub](https://coworkmsu.com/) ([301 E Main St., St
 Note that parking is in the back of the building (2nd floor), but the doors are locked after hours. We hope to have a door greeter at the second floor entrance from ~6:30-6:45pm, but you will need to come around the building to the first floor if you arrive after that point.
 </details>
 
-> Be advised that construction is still going on at this location, so you may be forced to enter the rear parking lot from the rear/east entrance. 
+> Be advised that construction is still going on at this location, so you may be forced to enter the rear parking lot from the rear/west entrance. 
 
 
 ## Social Media
@@ -160,15 +159,7 @@ Note that parking is in the back of the building (2nd floor), but the doors are 
 </style>
 
 
-<a href="https://www.facebook.com/groups/techconnect.gtr.ms">
-  <img
-    id="facebook-button"
-    src="images/Facebook_logo_(2023).svg"
-    width="200"
-  />
-</a>
-
 
 
 ## RSVP Form
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdfG3-Tj5zvUf28gyw25kZePy9fHzoZPjAZrgcg69epIeDQ_Q/viewform?embedded=true" width="640" height="995" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScsBtQ-y0DtA1HPXosRDBzH_gbwDDRJSsu5rTMCrrJdCbF82w/viewform?embedded=true" width="640" height="810" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
